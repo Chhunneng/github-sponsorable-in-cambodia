@@ -31,8 +31,9 @@ export type Node = {
     url: string;
 }
 
+
 const query = `query paginate($cursor: String) {
-    search(type: USER query: "location:Japan is:sponsorable", first: 100, after: $cursor) {
+    search(type: USER query: "location:Cambodia is:sponsorable", first: 100, after: $cursor) {
         userCount
         pageInfo {
             hasNextPage
@@ -63,6 +64,7 @@ const query = `query paginate($cursor: String) {
 }`;
 
 const results: UserNode[] = [];
+
 for await (const result of octokit.graphql.paginate.iterator(query)) {
     // TODO: support "Optional: Opt-in to get featured on github.com/sponsors"
     // TODO: support opt-out users

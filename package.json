@@ -1,9 +1,9 @@
 {
-  "name": "github-sponsorable-in-japan",
+  "name": "github-sponsorable-in-cambodia",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "update:resources": "node --loader ts-node/esm ./scripts/search-github-sponsorable-in-japan.mts",
+    "update:resources": "node --loader ts-node/esm ./scripts/search-github-sponsorable-in-cambodia.mts",
     "update:readme": "node --loader ts-node/esm ./scripts/data-to-readme.mts"
   },
   "devDependencies": {

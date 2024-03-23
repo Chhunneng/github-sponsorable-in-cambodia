@@ -28,7 +28,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@Chhunneng](https://github.com/Chhunneng) | [❤️Sponsor](https://github.com/sponsors/Chhunneng) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/47348453?u=4e2fc1439c810e92308905e813108761539b4c8c&v=4" alt="" width="40" /> | Code Adventure In Japan 🇯🇵  |
-| [github-sponsorable-in-cambodia](https://github.com/Chhunneng/github-sponsorable-in-cambodia) | This repository is a list of GitHub users who are living in Cambodia and are sponsor-able. |
+| [github-devloper-in-cambodia](https://github.com/Chhunneng/github-devloper-in-cambodia) | <!-- no description --> |
 
 
 ## [Draxler](https://github.com/HenGPlayZ)

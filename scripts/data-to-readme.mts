@@ -27,13 +27,14 @@ const persons = resultJSON.filter(isAccount).map((person) => {
 
 const totalUsers = resultJSON.length;
 const searchResultsLink = "https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch";
-
+const dateTime = new Date()
 const OUTPUT = `# GitHub Sponsor-able Users in Cambodia
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
 - Total: ${totalUsers}
 - Search Results: [GitHub Search](${searchResultsLink})
+- Last update: ${dateTime}
 
 ----
 

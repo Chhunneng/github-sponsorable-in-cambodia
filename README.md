@@ -2,11 +2,19 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 7
+- Total: 8
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Jun 07 2024 00:38:38 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Jun 08 2024 00:37:52 GMT+0000 (Coordinated Universal Time)
 
 ----
+
+## [Seanghay Yath](https://github.com/seanghay)
+    
+| [@seanghay](https://github.com/seanghay) | [❤️Sponsor](https://github.com/sponsors/seanghay) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/15277233?v=4" alt="" width="40" /> | 🎹  |
+| <!-- no item --> | <!-- no description --> |
+
 
 ## [heng.nn](https://github.com/sokunheng)
     

@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 8
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Jun 09 2024 00:41:58 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Jun 10 2024 00:39:11 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -12,7 +12,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@seanghay](https://github.com/seanghay) | [❤️Sponsor](https://github.com/sponsors/seanghay) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/15277233?v=4" alt="" width="40" /> | 🎹  |
+| <img src="https://avatars.githubusercontent.com/u/15277233?v=4" alt="" width="40" /> | RuntimeError: CUDA out of memory. Tried to allocate 42.0 MiB |
 | <!-- no item --> | <!-- no description --> |
 
 
@@ -20,7 +20,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@sokunheng](https://github.com/sokunheng) | [❤️Sponsor](https://github.com/sponsors/sokunheng) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/44894784?u=a83c88cf630f621818d328a3396c2f2e6015bdec&v=4" alt="" width="40" /> | Ideas become reality |
+| <img src="https://avatars.githubusercontent.com/u/44894784?u=5dbc532dbf6ea31e133f4e85837616fe68769c84&v=4" alt="" width="40" /> | Ideas become reality |
 | [DownEdit](https://github.com/sokunheng/DownEdit) | Download, Edit, and Generate Videos, Images and Sounds, in bulk using AI |
 
 

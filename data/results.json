@@ -5,7 +5,7 @@
     "url": "https://github.com/seanghay",
     "location": "Phnom Penh, Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/15277233?v=4",
-    "bio": "🎹 ",
+    "bio": "RuntimeError: CUDA out of memory. Tried to allocate 42.0 MiB",
     "pinnedItems": {
       "edges": []
     }
@@ -15,7 +15,7 @@
     "name": "heng.nn",
     "url": "https://github.com/sokunheng",
     "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44894784?u=a83c88cf630f621818d328a3396c2f2e6015bdec&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44894784?u=5dbc532dbf6ea31e133f4e85837616fe68769c84&v=4",
     "bio": "Ideas become reality",
     "pinnedItems": {
       "edges": [

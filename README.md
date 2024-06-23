@@ -2,11 +2,19 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 8
+- Total: 9
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat Jun 22 2024 00:37:25 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Jun 23 2024 00:41:06 GMT+0000 (Coordinated Universal Time)
 
 ----
+
+## [Raven Laing](https://github.com/DJ-Raven)
+    
+| [@DJ-Raven](https://github.com/DJ-Raven) | [❤️Sponsor](https://github.com/sponsors/DJ-Raven) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/58245926?u=bf2a475b047ffad23637b2e9923d034bcdacc0bf&v=4" alt="" width="40" /> | Java Developer |
+| [java-messenger](https://github.com/DJ-Raven/java-messenger) | Java swing messenger real-time chat with nodejs as server |
+
 
 ## [Seanghay Yath](https://github.com/seanghay)
     

@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 9
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Jul 31 2024 00:32:44 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Aug 01 2024 00:43:53 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -24,11 +24,11 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
-## [Decicion](https://github.com/sokunheng)
+## [Extradimensional](https://github.com/sokunheng)
     
 | [@sokunheng](https://github.com/sokunheng) | [❤️Sponsor](https://github.com/sponsors/sokunheng) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/44894784?u=02be1d0985f1bfee9e6a260357d275ffa65bb49a&v=4" alt="" width="40" /> | Ideas become reality ∞ |
+| <img src="https://avatars.githubusercontent.com/u/44894784?u=02be1d0985f1bfee9e6a260357d275ffa65bb49a&v=4" alt="" width="40" /> | Ideas become reality |
 | [DownEdit](https://github.com/sokunheng/DownEdit) | Download, Edit, and Generate Videos, Images and Sounds, in bulk using AI |
 
 

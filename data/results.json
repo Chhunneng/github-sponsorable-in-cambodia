@@ -24,7 +24,7 @@
     "url": "https://github.com/seanghay",
     "location": "Phnom Penh, Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/15277233?v=4",
-    "bio": "RuntimeError: CUDA out of memory. Tried to allocate 42.0 MiB",
+    "bio": "",
     "pinnedItems": {
       "edges": []
     }

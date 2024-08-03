@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 9
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Aug 02 2024 00:39:30 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Aug 03 2024 00:39:15 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -20,7 +20,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@seanghay](https://github.com/seanghay) | [❤️Sponsor](https://github.com/sponsors/seanghay) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/15277233?v=4" alt="" width="40" /> | RuntimeError: CUDA out of memory. Tried to allocate 42.0 MiB |
+| <img src="https://avatars.githubusercontent.com/u/15277233?v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
 
 

@@ -146,9 +146,9 @@
       "edges": [
         {
           "node": {
-            "name": "ecommerce_project",
-            "description": "connect firebase for send OTP",
-            "url": "https://github.com/JacklynConn/ecommerce_project"
+            "name": "api-komsan-app",
+            "description": null,
+            "url": "https://github.com/JacklynConn/api-komsan-app"
           }
         }
       ]

@@ -127,9 +127,9 @@
       "edges": [
         {
           "node": {
-            "name": "amvstrm",
-            "description": "Open source anime streaming website",
-            "url": "https://github.com/amvstrm/amvstrm"
+            "name": "hanime-python-api",
+            "description": "Hanime API build with Python Flask",
+            "url": "https://github.com/NYT92/hanime-python-api"
           }
         }
       ]

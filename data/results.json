@@ -68,6 +68,25 @@
     }
   },
   {
+    "login": "chantouchsek",
+    "name": "Chantouch Sek",
+    "url": "https://github.com/chantouchsek",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4",
+    "bio": "I love coding.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "vue-iframes",
+            "description": "A Vue js component for creating super fast loading, non-blocking iframes.",
+            "url": "https://github.com/chantouchsek/vue-iframes"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "putheakhem",
     "name": "Khem Puthea",
     "url": "https://github.com/putheakhem",

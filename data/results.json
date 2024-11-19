@@ -30,6 +30,25 @@
     }
   },
   {
+    "login": "chornthorn",
+    "name": "Thorn Chorn",
+    "url": "https://github.com/chornthorn",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36778896?u=050fef87eedb8abe9033c42ab5291e33be84fd98&v=4",
+    "bio": "Software Developer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "khode-two-factor-auth",
+            "description": "khode-2fa is a Keycloak extension that provides a REST API for managing Time-based One-Time Password (TOTP) authentication. ",
+            "url": "https://github.com/chornthorn/khode-two-factor-auth"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "munyoudoum",
     "name": null,
     "url": "https://github.com/munyoudoum",

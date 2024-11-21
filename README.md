@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 12
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Nov 20 2024 00:48:23 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Nov 21 2024 00:48:27 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -100,6 +100,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@JacklynConn](https://github.com/JacklynConn) | [❤️Sponsor](https://github.com/sponsors/JacklynConn) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/148744079?u=1543ee1aef201f6c6ed901382ad49aeae265cb84&v=4" alt="" width="40" /> | ✨Education and training🚀 |
+| <img src="https://avatars.githubusercontent.com/u/148744079?u=b93e8a715f5e7bb2444360a877b460a27bd211ba&v=4" alt="" width="40" /> | ✨Mobile Developer🚀 ✨Education and training🚀 |
 | [api-komsan-app](https://github.com/JacklynConn/api-komsan-app) | <!-- no description --> |
 

@@ -78,9 +78,9 @@
       "edges": [
         {
           "node": {
-            "name": "vue-iframes",
-            "description": "A Vue js component for creating super fast loading, non-blocking iframes.",
-            "url": "https://github.com/chantouchsek/vue-iframes"
+            "name": "validatorjs",
+            "description": "The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js.",
+            "url": "https://github.com/chantouchsek/validatorjs"
           }
         }
       ]

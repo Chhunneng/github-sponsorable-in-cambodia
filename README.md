@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 12
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Nov 22 2024 00:49:40 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Nov 23 2024 00:46:42 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -45,7 +45,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
-| [vue-iframes](https://github.com/chantouchsek/vue-iframes) | A Vue js component for creating super fast loading, non-blocking iframes. |
+| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
 
 
 ## [Khem Puthea](https://github.com/putheakhem)

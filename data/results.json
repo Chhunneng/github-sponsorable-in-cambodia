@@ -125,17 +125,6 @@
     }
   },
   {
-    "login": "HenGPlayZ",
-    "name": "Draxler",
-    "url": "https://github.com/HenGPlayZ",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76139625?u=28d76e5371340c0d04c819a74ea902c0e80f8382&v=4",
-    "bio": "🤍",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "NYT92",
     "name": "Norin Chamroeun",
     "url": "https://github.com/NYT92",
@@ -152,6 +141,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "HenGPlayZ",
+    "name": "Draxler",
+    "url": "https://github.com/HenGPlayZ",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76139625?u=28d76e5371340c0d04c819a74ea902c0e80f8382&v=4",
+    "bio": "🤍",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {

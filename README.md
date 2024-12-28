@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 12
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Dec 27 2024 00:45:41 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Dec 28 2024 00:44:48 GMT+0000 (Coordinated Universal Time)
 
 ----
 

@@ -10,9 +10,9 @@
       "edges": [
         {
           "node": {
-            "name": "java-messenger",
-            "description": "Java swing messenger real-time chat with nodejs as server",
-            "url": "https://github.com/DJ-Raven/java-messenger"
+            "name": "swing-modal-dialog",
+            "description": "Java Swing UI library custom with FlatLaf",
+            "url": "https://github.com/DJ-Raven/swing-modal-dialog"
           }
         }
       ]

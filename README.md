@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 12
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Jan 16 2025 00:44:39 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Jan 17 2025 00:44:29 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -13,7 +13,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@DJ-Raven](https://github.com/DJ-Raven) | [❤️Sponsor](https://github.com/sponsors/DJ-Raven) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/58245926?u=bf2a475b047ffad23637b2e9923d034bcdacc0bf&v=4" alt="" width="40" /> | Java Developer |
-| [java-messenger](https://github.com/DJ-Raven/java-messenger) | Java swing messenger real-time chat with nodejs as server |
+| [swing-modal-dialog](https://github.com/DJ-Raven/swing-modal-dialog) | Java Swing UI library custom with FlatLaf |
 
 
 ## [Seanghay Yath (上海)](https://github.com/seanghay)

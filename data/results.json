@@ -53,7 +53,7 @@
     "name": null,
     "url": "https://github.com/munyoudoum",
     "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60089135?u=5ba89d46e95b906ee98bb34e25e79ca174807e53&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60089135?u=622506958fe0ccda18b648564f98b57e718b23cf&v=4",
     "bio": "# Todo: search for a cool bio",
     "pinnedItems": {
       "edges": [
@@ -135,9 +135,9 @@
       "edges": [
         {
           "node": {
-            "name": "hanime-python-api",
-            "description": "Hanime API build with Python Flask",
-            "url": "https://github.com/NYT92/hanime-python-api"
+            "name": "hanimedesktop",
+            "description": "Hanime Desktop Build With Electron + Nuxtjs + HaniAPI 🔞",
+            "url": "https://github.com/NYT92/hanimedesktop"
           }
         }
       ]
@@ -155,25 +155,6 @@
     }
   },
   {
-    "login": "emdiya",
-    "name": "EM DiYA",
-    "url": "https://github.com/emdiya",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4",
-    "bio": "Software Dev | Flutter Developer",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "goroute_trainning",
-            "description": null,
-            "url": "https://github.com/emdiya/goroute_trainning"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "YStorm5",
     "name": "Panha",
     "url": "https://github.com/YStorm5",
@@ -187,6 +168,25 @@
             "name": "scrape",
             "description": "Library to scrape data from a website.",
             "url": "https://github.com/YStorm5/scrape"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "emdiya",
+    "name": "EM DiYA",
+    "url": "https://github.com/emdiya",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4",
+    "bio": "Software Dev | Flutter Developer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "goroute_trainning",
+            "description": null,
+            "url": "https://github.com/emdiya/goroute_trainning"
           }
         }
       ]

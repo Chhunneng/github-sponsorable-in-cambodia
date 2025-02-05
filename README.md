@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 12
+- Total: 13
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Feb 04 2025 00:45:17 GMT+0000 (Coordinated Universal Time)
+- Last update: Wed Feb 05 2025 00:45:31 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -62,6 +62,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/47348453?u=4e2fc1439c810e92308905e813108761539b4c8c&v=4" alt="" width="40" /> | 🇰🇭 → 🇯🇵 → ?  |
 | [github-devloper-in-cambodia](https://github.com/Chhunneng/github-devloper-in-cambodia) | This repo is the list of user that locate in Cambodia. |
+
+
+## [Vichea](https://github.com/vicheanath)
+    
+| [@vicheanath](https://github.com/vicheanath) | [❤️Sponsor](https://github.com/sponsors/vicheanath) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/48352653?u=f36d35cd992897ddccb337ff375d6e30bd174b30&v=4" alt="" width="40" /> |  |
+| [SearchBugs](https://github.com/vicheanath/SearchBugs) | A open-source Bugs report software build in .NET Core |
 
 
 ## [Norin Chamroeun](https://github.com/NYT92)

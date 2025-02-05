@@ -125,6 +125,25 @@
     }
   },
   {
+    "login": "vicheanath",
+    "name": "Vichea",
+    "url": "https://github.com/vicheanath",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48352653?u=f36d35cd992897ddccb337ff375d6e30bd174b30&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "SearchBugs",
+            "description": "A open-source Bugs report software build in .NET Core",
+            "url": "https://github.com/vicheanath/SearchBugs"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "NYT92",
     "name": "Norin Chamroeun",
     "url": "https://github.com/NYT92",

@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 13
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Mon Mar 03 2025 00:50:29 GMT+0000 (Coordinated Universal Time)
+- Last update: Tue Mar 04 2025 00:48:51 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -72,7 +72,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [SearchBugs](https://github.com/vicheanath/SearchBugs) | A open-source Bugs report software build in .NET Core |
 
 
-## [Norin Chamroeun](https://github.com/NYT92)
+## [Chamroeun Norin](https://github.com/NYT92)
     
 | [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
 | --- | --- |

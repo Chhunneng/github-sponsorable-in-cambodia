@@ -154,9 +154,9 @@
       "edges": [
         {
           "node": {
-            "name": "hanimedesktop",
-            "description": "Hanime Desktop Build With Electron + Nuxtjs + HaniAPI 🔞",
-            "url": "https://github.com/NYT92/hanimedesktop"
+            "name": "artistdb",
+            "description": "(Coming Soon) Quickly find artist you love from all around the world...",
+            "url": "https://github.com/nyt92org/artistdb"
           }
         }
       ]

@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 13
+- Total: 14
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu May 01 2025 00:58:32 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri May 02 2025 00:53:23 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -69,7 +69,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@vicheanath](https://github.com/vicheanath) | [❤️Sponsor](https://github.com/sponsors/vicheanath) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/48352653?u=f36d35cd992897ddccb337ff375d6e30bd174b30&v=4" alt="" width="40" /> |  |
-| [SearchBugs](https://github.com/vicheanath/SearchBugs) | A open-source Bugs report software build in .NET Core |
+| [vailabel-studio](https://github.com/vailabel/vailabel-studio) | Lightweight AI-Powered Auto Labeling Tool - Fast, Intelligent, and Designed for Seamless Annotation |
 
 
 ## [Chamroeun Norin](https://github.com/NYT92)
@@ -102,6 +102,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/91424540?u=9781906fc35340bf3c4eb352935add9df11815d0&v=4" alt="" width="40" /> | Javascript  C# & Dart Enthusiast |
 | [scrape](https://github.com/YStorm5/scrape) | Library to scrape data from a website. |
+
+
+## [Sophat Leat](https://github.com/L-Sophat)
+    
+| [@L-Sophat](https://github.com/L-Sophat) | [❤️Sponsor](https://github.com/sponsors/L-Sophat) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/87051743?u=852c5bf470157ea7df9ec13a82bb2e5384e15c78&v=4" alt="" width="40" /> | Developer of @uixbase, and @nintrealab open sources Organization  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [makmach](https://github.com/JacklynConn)

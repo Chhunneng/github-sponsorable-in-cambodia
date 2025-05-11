@@ -31,10 +31,10 @@
   },
   {
     "login": "chornthorn",
-    "name": "Thorn Chorn",
+    "name": null,
     "url": "https://github.com/chornthorn",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36778896?u=050fef87eedb8abe9033c42ab5291e33be84fd98&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36778896?u=b6b13c6b0524d8c38f2893bbe741c3acfdb5e988&v=4",
     "bio": "Software Developer",
     "pinnedItems": {
       "edges": [
@@ -171,6 +171,25 @@
     "bio": "🤍",
     "pinnedItems": {
       "edges": []
+    }
+  },
+  {
+    "login": "MyKhode",
+    "name": "Ikhode Studio",
+    "url": "https://github.com/MyKhode",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132768132?u=92df7cbe11855644fb869126dbf6759400fd017f&v=4",
+    "bio": "do what you love, just try your best  🇰🇭",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Telegram-Chatbot",
+            "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
+            "url": "https://github.com/MyKhode/Telegram-Chatbot"
+          }
+        }
+      ]
     }
   },
   {

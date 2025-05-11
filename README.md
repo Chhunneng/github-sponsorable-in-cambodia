@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 14
+- Total: 15
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat May 10 2025 00:51:39 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun May 11 2025 00:57:39 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -24,11 +24,11 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
-## [Thorn Chorn](https://github.com/chornthorn)
+## [chornthorn](https://github.com/chornthorn)
     
 | [@chornthorn](https://github.com/chornthorn) | [❤️Sponsor](https://github.com/sponsors/chornthorn) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/36778896?u=050fef87eedb8abe9033c42ab5291e33be84fd98&v=4" alt="" width="40" /> | Software Developer |
+| <img src="https://avatars.githubusercontent.com/u/36778896?u=b6b13c6b0524d8c38f2893bbe741c3acfdb5e988&v=4" alt="" width="40" /> | Software Developer |
 | [khode-two-factor-auth](https://github.com/chornthorn/khode-two-factor-auth) | khode-2fa is a Keycloak extension that provides a REST API for managing Time-based One-Time Password (TOTP) authentication.  |
 
 
@@ -86,6 +86,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/76139625?u=28d76e5371340c0d04c819a74ea902c0e80f8382&v=4" alt="" width="40" /> | 🤍 |
 | <!-- no item --> | <!-- no description --> |
+
+
+## [Ikhode Studio](https://github.com/MyKhode)
+    
+| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/132768132?u=92df7cbe11855644fb869126dbf6759400fd017f&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭 |
+| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
 ## [EM DiYA](https://github.com/emdiya)

@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 15
+- Total: 14
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun May 11 2025 00:57:39 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon May 12 2025 00:56:34 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -110,14 +110,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/91424540?u=9781906fc35340bf3c4eb352935add9df11815d0&v=4" alt="" width="40" /> | Javascript  C# & Dart Enthusiast |
 | [scrape](https://github.com/YStorm5/scrape) | Library to scrape data from a website. |
-
-
-## [Sophat Leat](https://github.com/L-Sophat)
-    
-| [@L-Sophat](https://github.com/L-Sophat) | [❤️Sponsor](https://github.com/sponsors/L-Sophat) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/87051743?u=852c5bf470157ea7df9ec13a82bb2e5384e15c78&v=4" alt="" width="40" /> | Developer of @uixbase, and @nintrealab open sources Organization  |
-| <!-- no item --> | <!-- no description --> |
 
 
 ## [makmach](https://github.com/JacklynConn)

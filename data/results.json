@@ -97,9 +97,9 @@
       "edges": [
         {
           "node": {
-            "name": "php-getting-started-with-heroku",
-            "description": null,
-            "url": "https://github.com/putheakhem/php-getting-started-with-heroku"
+            "name": "otp",
+            "description": "Simple Laravel OTP generator and validator ",
+            "url": "https://github.com/putheakhem/otp"
           }
         }
       ]

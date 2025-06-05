@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 15
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Jun 04 2025 00:55:59 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Jun 05 2025 00:55:04 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -56,20 +56,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
 
 
-## [Chrea Chanchhunneng](https://github.com/Chhunneng)
-    
-| [@Chhunneng](https://github.com/Chhunneng) | [❤️Sponsor](https://github.com/sponsors/Chhunneng) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/47348453?u=4e2fc1439c810e92308905e813108761539b4c8c&v=4" alt="" width="40" /> | 🥇🥇  |
-| [github-devloper-in-cambodia](https://github.com/Chhunneng/github-devloper-in-cambodia) | This repo is the list of user that locate in Cambodia. |
-
-
 ## [Vichea](https://github.com/vicheanath)
     
 | [@vicheanath](https://github.com/vicheanath) | [❤️Sponsor](https://github.com/sponsors/vicheanath) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/48352653?u=ab9e95e7af79f30532f9471226840c3ae54c54cf&v=4" alt="" width="40" /> | 👨‍💻 .NET Developer ｜ ⚛️ TypeScript + React Enthusiast ｜ 🌍 Open Source Advocate  Building scalable backends with C#/.NET and sleek frontends with TypeScript |
 | [vailabel-studio](https://github.com/vailabel/vailabel-studio) | Lightweight AI-Powered Auto Labeling Tool - Fast, Intelligent, and Designed for Seamless Annotation |
+
+
+## [Chrea Chanchhunneng](https://github.com/Chhunneng)
+    
+| [@Chhunneng](https://github.com/Chhunneng) | [❤️Sponsor](https://github.com/sponsors/Chhunneng) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/47348453?u=4e2fc1439c810e92308905e813108761539b4c8c&v=4" alt="" width="40" /> | 🥇🥇  |
+| [github-devloper-in-cambodia](https://github.com/Chhunneng/github-devloper-in-cambodia) | This repo is the list of user that locate in Cambodia. |
 
 
 ## [Chamroeun Norin](https://github.com/NYT92)

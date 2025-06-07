@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 15
+- Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Jun 06 2025 00:54:52 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Jun 07 2025 00:54:42 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -94,6 +94,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/132768132?u=92df7cbe11855644fb869126dbf6759400fd017f&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭 |
 | [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
+
+
+## [PPhat DEv](https://github.com/pphatdev)
+    
+| [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=8a9f398d8cc70d135847d32e1b878c95dc3bf498&v=4" alt="" width="40" /> | I'm a remote dev full-time at @turbotechlabs, and creator of @nintrealab and @pphatlabs  |
+| [sample-node-api-migration](https://github.com/pphatdev/sample-node-api-migration) | Sample Project Node Module APIs connecting with Postgres SQL  |
 
 
 ## [EM DiYA](https://github.com/emdiya)

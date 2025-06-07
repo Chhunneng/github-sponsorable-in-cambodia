@@ -193,6 +193,25 @@
     }
   },
   {
+    "login": "pphatdev",
+    "name": "PPhat DEv",
+    "url": "https://github.com/pphatdev",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=8a9f398d8cc70d135847d32e1b878c95dc3bf498&v=4",
+    "bio": "I'm a remote dev full-time at @turbotechlabs, and creator of @nintrealab and @pphatlabs ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "sample-node-api-migration",
+            "description": "Sample Project Node Module APIs connecting with Postgres SQL ",
+            "url": "https://github.com/pphatdev/sample-node-api-migration"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "emdiya",
     "name": "EM DiYA",
     "url": "https://github.com/emdiya",

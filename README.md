@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Jun 10 2025 00:56:06 GMT+0000 (Coordinated Universal Time)
+- Last update: Wed Jun 11 2025 00:56:03 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -60,7 +60,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@vicheanath](https://github.com/vicheanath) | [❤️Sponsor](https://github.com/sponsors/vicheanath) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/48352653?u=ab9e95e7af79f30532f9471226840c3ae54c54cf&v=4" alt="" width="40" /> | 👨‍💻 .NET Developer ｜ ⚛️ TypeScript + React Enthusiast ｜ 🌍 Open Source Advocate  Building scalable backends with C#/.NET and sleek frontends with TypeScript |
+| <img src="https://avatars.githubusercontent.com/u/48352653?u=ab9e95e7af79f30532f9471226840c3ae54c54cf&v=4" alt="" width="40" /> | 👨‍💻 .NET Developer ｜ ⚛️ TypeScript + React ｜ PHP Laravel |
 | [vailabel-studio](https://github.com/vailabel/vailabel-studio) | Lightweight AI-Powered Auto Labeling Tool - Fast, Intelligent, and Designed for Seamless Annotation |
 
 

@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Jun 12 2025 00:55:28 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Jun 13 2025 00:55:49 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -80,11 +80,11 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
 
 
-## [Heng](https://github.com/HenGPlayZ)
+## [Tang Heng](https://github.com/HenGPlayZ)
     
 | [@HenGPlayZ](https://github.com/HenGPlayZ) | [❤️Sponsor](https://github.com/sponsors/HenGPlayZ) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/76139625?u=28d76e5371340c0d04c819a74ea902c0e80f8382&v=4" alt="" width="40" /> | 🤍 |
+| <img src="https://avatars.githubusercontent.com/u/76139625?u=6d397cf2398e637215188496fcaa4a1098b85bb6&v=4" alt="" width="40" /> | 🤍 |
 | <!-- no item --> | <!-- no description --> |
 
 

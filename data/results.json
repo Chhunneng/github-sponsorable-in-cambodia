@@ -203,9 +203,9 @@
       "edges": [
         {
           "node": {
-            "name": "sample-node-api-migration",
+            "name": "api.sophat.top",
             "description": "Sample Project Node Module APIs connecting with Postgres SQL ",
-            "url": "https://github.com/pphatdev/sample-node-api-migration"
+            "url": "https://github.com/pphatdev/api.sophat.top"
           }
         }
       ]

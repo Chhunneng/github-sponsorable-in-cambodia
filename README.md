@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 16
+- Total: 17
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Jun 27 2025 00:56:44 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Jun 28 2025 00:54:39 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -56,6 +56,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
 
 
+## [BAN Sothen](https://github.com/bsthen)
+    
+| [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
+
+
 ## [Chrea Chanchhunneng](https://github.com/Chhunneng)
     
 | [@Chhunneng](https://github.com/Chhunneng) | [❤️Sponsor](https://github.com/sponsors/Chhunneng) |
@@ -68,7 +76,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@vicheanath](https://github.com/vicheanath) | [❤️Sponsor](https://github.com/sponsors/vicheanath) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/48352653?u=ab9e95e7af79f30532f9471226840c3ae54c54cf&v=4" alt="" width="40" /> | 👨‍💻 .NET Developer ｜ ⚛️ TypeScript + React ｜ PHP Laravel |
+| <img src="https://avatars.githubusercontent.com/u/48352653?u=f00f7574236f71e468c6b6a715cc4f2a063613a8&v=4" alt="" width="40" /> | 👨‍💻 .NET Developer ｜ ⚛️ TypeScript + React ｜ PHP Laravel |
 | [vailabel-studio](https://github.com/vailabel/vailabel-studio) | Lightweight AI-Powered Auto Labeling Tool - Fast, Intelligent, and Designed for Seamless Annotation |
 
 

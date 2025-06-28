@@ -106,6 +106,17 @@
     }
   },
   {
+    "login": "bsthen",
+    "name": "BAN Sothen",
+    "url": "https://github.com/bsthen",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "Chhunneng",
     "name": "Chrea Chanchhunneng",
     "url": "https://github.com/Chhunneng",
@@ -129,7 +140,7 @@
     "name": "Vichea",
     "url": "https://github.com/vicheanath",
     "location": "USA / Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48352653?u=ab9e95e7af79f30532f9471226840c3ae54c54cf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48352653?u=f00f7574236f71e468c6b6a715cc4f2a063613a8&v=4",
     "bio": "👨‍💻 .NET Developer | ⚛️ TypeScript + React | PHP Laravel",
     "pinnedItems": {
       "edges": [

@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 17
+- Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Jun 29 2025 01:02:41 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Jun 30 2025 00:59:57 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -70,14 +70,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/47348453?u=4e2fc1439c810e92308905e813108761539b4c8c&v=4" alt="" width="40" /> | 🥇🥇  |
 | [github-devloper-in-cambodia](https://github.com/Chhunneng/github-devloper-in-cambodia) | This repo is the list of user that locate in Cambodia. |
-
-
-## [Vichea](https://github.com/vicheanath)
-    
-| [@vicheanath](https://github.com/vicheanath) | [❤️Sponsor](https://github.com/sponsors/vicheanath) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/48352653?u=f00f7574236f71e468c6b6a715cc4f2a063613a8&v=4" alt="" width="40" /> | 👨‍💻 .NET Developer ｜ ⚛️ TypeScript + React ｜ PHP Laravel |
-| [vailabel-studio](https://github.com/vailabel/vailabel-studio) | Lightweight AI-Powered Auto Labeling Tool - Fast, Intelligent, and Designed for Seamless Annotation |
 
 
 ## [Chamroeun Norin](https://github.com/NYT92)

@@ -136,25 +136,6 @@
     }
   },
   {
-    "login": "vicheanath",
-    "name": "Vichea",
-    "url": "https://github.com/vicheanath",
-    "location": "USA / Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48352653?u=f00f7574236f71e468c6b6a715cc4f2a063613a8&v=4",
-    "bio": "👨‍💻 .NET Developer | ⚛️ TypeScript + React | PHP Laravel",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "vailabel-studio",
-            "description": "Lightweight AI-Powered Auto Labeling Tool - Fast, Intelligent, and Designed for Seamless Annotation",
-            "url": "https://github.com/vailabel/vailabel-studio"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "NYT92",
     "name": "Chamroeun Norin",
     "url": "https://github.com/NYT92",

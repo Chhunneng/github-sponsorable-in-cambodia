@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Jul 08 2025 00:56:53 GMT+0000 (Coordinated Universal Time)
+- Last update: Wed Jul 09 2025 00:57:40 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -116,7 +116,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@YStorm5](https://github.com/YStorm5) | [❤️Sponsor](https://github.com/sponsors/YStorm5) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/91424540?u=9781906fc35340bf3c4eb352935add9df11815d0&v=4" alt="" width="40" /> | Javascript  C# & Dart Enthusiast |
+| <img src="https://avatars.githubusercontent.com/u/91424540?u=9781906fc35340bf3c4eb352935add9df11815d0&v=4" alt="" width="40" /> | Programming Enthusiast |
 | [scrape](https://github.com/YStorm5/scrape) | Library to scrape data from a website. |
 
 

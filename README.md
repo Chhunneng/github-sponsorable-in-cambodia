@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Jul 15 2025 01:00:06 GMT+0000 (Coordinated Universal Time)
+- Last update: Wed Jul 16 2025 00:59:08 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -96,11 +96,11 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
-## [PPhat DEv](https://github.com/pphatdev)
+## [PPhat Dev](https://github.com/pphatdev)
     
 | [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65520537?u=8a9f398d8cc70d135847d32e1b878c95dc3bf498&v=4" alt="" width="40" /> | I'm a remote dev full-time at @turbotechlabs, and creator of @nintrealab and @pphatlabs  |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=a65dcefe018553a11941f0adfcf453693208a823&v=4" alt="" width="40" /> | I'm a full-time developer at @turbotechlabs, and creator of @nintrealab and @pphatlabs  |
 | [api.sophat.top](https://github.com/pphatdev/api.sophat.top) | Sample Project Node Module APIs connecting with Postgres SQL  |
 
 

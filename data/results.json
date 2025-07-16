@@ -186,11 +186,11 @@
   },
   {
     "login": "pphatdev",
-    "name": "PPhat DEv",
+    "name": "PPhat Dev",
     "url": "https://github.com/pphatdev",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=8a9f398d8cc70d135847d32e1b878c95dc3bf498&v=4",
-    "bio": "I'm a remote dev full-time at @turbotechlabs, and creator of @nintrealab and @pphatlabs ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=a65dcefe018553a11941f0adfcf453693208a823&v=4",
+    "bio": "I'm a full-time developer at @turbotechlabs, and creator of @nintrealab and @pphatlabs ",
     "pinnedItems": {
       "edges": [
         {

@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Jul 24 2025 00:59:37 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Jul 25 2025 00:59:18 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -92,7 +92,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/132768132?u=92df7cbe11855644fb869126dbf6759400fd017f&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭 |
+| <img src="https://avatars.githubusercontent.com/u/132768132?u=92df7cbe11855644fb869126dbf6759400fd017f&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
 | [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 

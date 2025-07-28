@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 16
+- Total: 17
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Jul 27 2025 01:05:16 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Jul 28 2025 01:04:01 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -110,6 +110,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4" alt="" width="40" /> | Software Developer ｜ Flutter Developer |
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
+
+
+## [Hoeun Pichet](https://github.com/HoeunPichet)
+    
+| [@HoeunPichet](https://github.com/HoeunPichet) | [❤️Sponsor](https://github.com/sponsors/HoeunPichet) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/80959071?u=13d95dfc2c1eb95ca6868bf6b26c0c12fb351c4d&v=4" alt="" width="40" /> | Always with you |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Panha](https://github.com/YStorm5)

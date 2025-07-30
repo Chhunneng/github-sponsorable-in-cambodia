@@ -19,17 +19,6 @@
     }
   },
   {
-    "login": "seanghay",
-    "name": "Seanghay Yath",
-    "url": "https://github.com/seanghay",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15277233?v=4",
-    "bio": "you can just do things ™",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "chornthorn",
     "name": null,
     "url": "https://github.com/chornthorn",

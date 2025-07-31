@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 16
+- Total: 17
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Jul 30 2025 01:00:23 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Jul 31 2025 01:00:23 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -14,6 +14,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/58245926?u=78ab63b6e1e19aedf425dea27f74f5c661be7524&v=4" alt="" width="40" /> | Java Developer |
 | [swing-modal-dialog](https://github.com/DJ-Raven/swing-modal-dialog) | Java Swing UI library custom with FlatLaf |
+
+
+## [Socheat Sok](https://github.com/socheatsok78)
+    
+| [@socheatsok78](https://github.com/socheatsok78) | [❤️Sponsor](https://github.com/sponsors/socheatsok78) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/4363857?v=4" alt="" width="40" /> | 🇰🇭👨🏻‍💻 Software Engineer  ❤️ web technologies & systems languages  🫰 obsessed with @NixOS.  |
+| [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management |
 
 
 ## [chornthorn](https://github.com/chornthorn)

@@ -19,6 +19,25 @@
     }
   },
   {
+    "login": "socheatsok78",
+    "name": "Socheat Sok",
+    "url": "https://github.com/socheatsok78",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4363857?v=4",
+    "bio": "🇰🇭👨🏻‍💻 Software Engineer \r\n❤️ web technologies & systems languages \r\n🫰 obsessed with @NixOS.\r\n",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "vault",
+            "description": "A tool for secrets management, encryption as a service, and privileged access management",
+            "url": "https://github.com/hashicorp/vault"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "chornthorn",
     "name": null,
     "url": "https://github.com/chornthorn",

@@ -203,9 +203,9 @@
       "edges": [
         {
           "node": {
-            "name": "api.sophat.top",
-            "description": "Sample Project Node Module APIs connecting with Postgres SQL ",
-            "url": "https://github.com/pphatdev/api.sophat.top"
+            "name": "pphat.netlify.app",
+            "description": "Portfolio Template: https://pphat.top",
+            "url": "https://github.com/pphatdev/pphat.netlify.app"
           }
         }
       ]

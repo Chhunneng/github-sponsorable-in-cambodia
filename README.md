@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 17
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Aug 01 2025 01:07:24 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Aug 02 2025 00:57:47 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -80,12 +80,12 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
 
 
-## [Ikhode Studio](https://github.com/MyKhode)
+## [PPhat Dev](https://github.com/pphatdev)
     
-| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
+| [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/132768132?u=92df7cbe11855644fb869126dbf6759400fd017f&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
-| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=a65dcefe018553a11941f0adfcf453693208a823&v=4" alt="" width="40" /> | I'm a full-time developer at @turbotechlabs, and creator of @nintrealab and @pphatlabs  |
+| [pphat.netlify.app](https://github.com/pphatdev/pphat.netlify.app) | Portfolio Template: https://pphat.top |
 
 
 ## [Tang Heng](https://github.com/HenGPlayZ)
@@ -96,12 +96,12 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
-## [PPhat Dev](https://github.com/pphatdev)
+## [Ikhode Studio](https://github.com/MyKhode)
     
-| [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
+| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65520537?u=a65dcefe018553a11941f0adfcf453693208a823&v=4" alt="" width="40" /> | I'm a full-time developer at @turbotechlabs, and creator of @nintrealab and @pphatlabs  |
-| [pphat.netlify.app](https://github.com/pphatdev/pphat.netlify.app) | Portfolio Template: https://pphat.top |
+| <img src="https://avatars.githubusercontent.com/u/132768132?u=92df7cbe11855644fb869126dbf6759400fd017f&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
+| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
 ## [EM DiYA](https://github.com/emdiya)

@@ -163,19 +163,19 @@
     }
   },
   {
-    "login": "MyKhode",
-    "name": "Ikhode Studio",
-    "url": "https://github.com/MyKhode",
+    "login": "pphatdev",
+    "name": "PPhat Dev",
+    "url": "https://github.com/pphatdev",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132768132?u=92df7cbe11855644fb869126dbf6759400fd017f&v=4",
-    "bio": "do what you love, just try your best  🇰🇭 ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=a65dcefe018553a11941f0adfcf453693208a823&v=4",
+    "bio": "I'm a full-time developer at @turbotechlabs, and creator of @nintrealab and @pphatlabs ",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "Telegram-Chatbot",
-            "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
-            "url": "https://github.com/MyKhode/Telegram-Chatbot"
+            "name": "pphat.netlify.app",
+            "description": "Portfolio Template: https://pphat.top",
+            "url": "https://github.com/pphatdev/pphat.netlify.app"
           }
         }
       ]
@@ -193,19 +193,19 @@
     }
   },
   {
-    "login": "pphatdev",
-    "name": "PPhat Dev",
-    "url": "https://github.com/pphatdev",
+    "login": "MyKhode",
+    "name": "Ikhode Studio",
+    "url": "https://github.com/MyKhode",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=a65dcefe018553a11941f0adfcf453693208a823&v=4",
-    "bio": "I'm a full-time developer at @turbotechlabs, and creator of @nintrealab and @pphatlabs ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132768132?u=92df7cbe11855644fb869126dbf6759400fd017f&v=4",
+    "bio": "do what you love, just try your best  🇰🇭 ",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "pphat.netlify.app",
-            "description": "Portfolio Template: https://pphat.top",
-            "url": "https://github.com/pphatdev/pphat.netlify.app"
+            "name": "Telegram-Chatbot",
+            "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
+            "url": "https://github.com/MyKhode/Telegram-Chatbot"
           }
         }
       ]

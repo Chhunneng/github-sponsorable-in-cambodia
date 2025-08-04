@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 17
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Aug 03 2025 01:06:35 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Aug 04 2025 01:05:44 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -29,7 +29,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@chornthorn](https://github.com/chornthorn) | [❤️Sponsor](https://github.com/sponsors/chornthorn) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/36778896?u=b6b13c6b0524d8c38f2893bbe741c3acfdb5e988&v=4" alt="" width="40" /> | Software Developer |
-| [khode-two-factor-auth](https://github.com/chornthorn/khode-two-factor-auth) | khode-2fa is a Keycloak extension that provides a REST API for managing Time-based One-Time Password (TOTP) authentication.  |
+| [keycloak-two-factor](https://github.com/khode-io/keycloak-two-factor) | khode-2fa is a Keycloak extension that provides a REST API for managing Time-based One-Time Password (TOTP) authentication.  |
 
 
 ## [munyoudoum](https://github.com/munyoudoum)

@@ -48,9 +48,9 @@
       "edges": [
         {
           "node": {
-            "name": "khode-two-factor-auth",
+            "name": "keycloak-two-factor",
             "description": "khode-2fa is a Keycloak extension that provides a REST API for managing Time-based One-Time Password (TOTP) authentication. ",
-            "url": "https://github.com/chornthorn/khode-two-factor-auth"
+            "url": "https://github.com/khode-io/keycloak-two-factor"
           }
         }
       ]

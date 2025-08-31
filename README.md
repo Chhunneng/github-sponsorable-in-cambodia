@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat Aug 30 2025 00:48:36 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Aug 31 2025 00:55:47 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -40,20 +40,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
 
 
-## [BAN Sothen](https://github.com/bsthen)
-    
-| [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-
 ## [Khem Puthea](https://github.com/putheakhem)
     
 | [@putheakhem](https://github.com/putheakhem) | [❤️Sponsor](https://github.com/sponsors/putheakhem) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/8064772?u=a243690fa6d1ddacc2a4bed6554bcb686085d152&v=4" alt="" width="40" /> | AI & DevOps |
 | [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
+
+
+## [BAN Sothen](https://github.com/bsthen)
+    
+| [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Chrea Chanchhunneng](https://github.com/Chhunneng)
@@ -84,7 +84,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65520537?u=a65dcefe018553a11941f0adfcf453693208a823&v=4" alt="" width="40" /> | I'm a full-time developer at @turbotechlabs, and creator of @nintrealab and @pphatlabs  |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=a65dcefe018553a11941f0adfcf453693208a823&v=4" alt="" width="40" /> | Hi mate! |
 | [pphat.netlify.app](https://github.com/pphatdev/pphat.netlify.app) | Portfolio Template: https://pphat.top |
 
 

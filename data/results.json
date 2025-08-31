@@ -76,17 +76,6 @@
     }
   },
   {
-    "login": "bsthen",
-    "name": "BAN Sothen",
-    "url": "https://github.com/bsthen",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "putheakhem",
     "name": "Khem Puthea",
     "url": "https://github.com/putheakhem",
@@ -103,6 +92,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "bsthen",
+    "name": "BAN Sothen",
+    "url": "https://github.com/bsthen",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -160,7 +160,7 @@
     "url": "https://github.com/pphatdev",
     "location": "Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=a65dcefe018553a11941f0adfcf453693208a823&v=4",
-    "bio": "I'm a full-time developer at @turbotechlabs, and creator of @nintrealab and @pphatlabs ",
+    "bio": "Hi mate!",
     "pinnedItems": {
       "edges": [
         {

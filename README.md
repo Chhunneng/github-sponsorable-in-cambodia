@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Sep 04 2025 00:49:19 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Sep 05 2025 00:50:35 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -96,14 +96,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
-## [EM DiYA](https://github.com/emdiya)
-    
-| [@emdiya](https://github.com/emdiya) | [❤️Sponsor](https://github.com/sponsors/emdiya) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4" alt="" width="40" /> | Software Developer ｜ Flutter Developer |
-| [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
-
-
 ## [Hoeun Pichet](https://github.com/HoeunPichet)
     
 | [@HoeunPichet](https://github.com/HoeunPichet) | [❤️Sponsor](https://github.com/sponsors/HoeunPichet) |
@@ -118,6 +110,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/91424540?u=9781906fc35340bf3c4eb352935add9df11815d0&v=4" alt="" width="40" /> | Programming Enthusiast |
 | [scrape](https://github.com/YStorm5/scrape) | Library to scrape data from a website. |
+
+
+## [EM DiYA](https://github.com/emdiya)
+    
+| [@emdiya](https://github.com/emdiya) | [❤️Sponsor](https://github.com/sponsors/emdiya) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4" alt="" width="40" /> | Software Developer ｜ Flutter Developer |
+| [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
 
 
 ## [Sophat Leat](https://github.com/L-Sophat)

@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 16
+- Total: 15
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Sep 14 2025 00:54:17 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Sep 15 2025 00:54:33 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -54,14 +54,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
-
-
-## [Chrea Chanchhunneng](https://github.com/Chhunneng)
-    
-| [@Chhunneng](https://github.com/Chhunneng) | [❤️Sponsor](https://github.com/sponsors/Chhunneng) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/47348453?u=4e2fc1439c810e92308905e813108761539b4c8c&v=4" alt="" width="40" /> | 🥇🥇  |
-| [github-devloper-in-cambodia](https://github.com/Chhunneng/github-devloper-in-cambodia) | This repo is the list of user that locate in Cambodia. |
 
 
 ## [Chamroeun Norin](https://github.com/NYT92)

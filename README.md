@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 15
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Oct 23 2025 00:52:52 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Oct 24 2025 00:49:08 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -64,20 +64,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
 
 
+## [PPhat Dev](https://github.com/pphatdev)
+    
+| [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=62573e3561c58d66138446c8f87843eb07061da6&v=4" alt="" width="40" /> | Hi mate! |
+| [pphat.netlify.app](https://github.com/pphatdev/pphat.netlify.app) | Portfolio Template: https://pphat.top |
+
+
 ## [Tang Heng](https://github.com/HenGPlayZ)
     
 | [@HenGPlayZ](https://github.com/HenGPlayZ) | [❤️Sponsor](https://github.com/sponsors/HenGPlayZ) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/76139625?u=6d397cf2398e637215188496fcaa4a1098b85bb6&v=4" alt="" width="40" /> | 🤍 |
 | <!-- no item --> | <!-- no description --> |
-
-
-## [PPhat Dev](https://github.com/pphatdev)
-    
-| [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65520537?u=83f62bc019f310bd73991bfcc2c70b812a03d570&v=4" alt="" width="40" /> | Hi mate! |
-| [pphat.netlify.app](https://github.com/pphatdev/pphat.netlify.app) | Portfolio Template: https://pphat.top |
 
 
 ## [Ikhode Studio](https://github.com/MyKhode)

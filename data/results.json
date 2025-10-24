@@ -125,22 +125,11 @@
     }
   },
   {
-    "login": "HenGPlayZ",
-    "name": "Tang Heng",
-    "url": "https://github.com/HenGPlayZ",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76139625?u=6d397cf2398e637215188496fcaa4a1098b85bb6&v=4",
-    "bio": "🤍",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "pphatdev",
     "name": "PPhat Dev",
     "url": "https://github.com/pphatdev",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=83f62bc019f310bd73991bfcc2c70b812a03d570&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=62573e3561c58d66138446c8f87843eb07061da6&v=4",
     "bio": "Hi mate!",
     "pinnedItems": {
       "edges": [
@@ -152,6 +141,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "HenGPlayZ",
+    "name": "Tang Heng",
+    "url": "https://github.com/HenGPlayZ",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76139625?u=6d397cf2398e637215188496fcaa4a1098b85bb6&v=4",
+    "bio": "🤍",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {

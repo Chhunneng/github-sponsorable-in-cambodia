@@ -106,25 +106,6 @@
     }
   },
   {
-    "login": "NYT92",
-    "name": "Chamroeun Norin",
-    "url": "https://github.com/NYT92",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4",
-    "bio": "stupid cambodian developer at the age of 18...",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "artistdb",
-            "description": "(Coming Soon) Quickly find artist you love from all around the world...",
-            "url": "https://github.com/nyt92org/artistdb"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "pphatdev",
     "name": "PPhat Dev",
     "url": "https://github.com/pphatdev",
@@ -138,6 +119,25 @@
             "name": "pphat.netlify.app",
             "description": "Portfolio Template: https://pphat.top",
             "url": "https://github.com/pphatdev/pphat.netlify.app"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "NYT92",
+    "name": "Chamroeun Norin",
+    "url": "https://github.com/NYT92",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4",
+    "bio": "stupid cambodian developer at the age of 18...",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "artistdb",
+            "description": "(Coming Soon) Quickly find artist you love from all around the world...",
+            "url": "https://github.com/nyt92org/artistdb"
           }
         }
       ]

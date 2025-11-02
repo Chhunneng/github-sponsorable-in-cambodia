@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 15
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat Nov 01 2025 00:56:37 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Nov 02 2025 00:57:20 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -56,20 +56,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
 
 
-## [Chamroeun Norin](https://github.com/NYT92)
-    
-| [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 18... |
-| [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
-
-
 ## [PPhat Dev](https://github.com/pphatdev)
     
 | [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/65520537?u=62573e3561c58d66138446c8f87843eb07061da6&v=4" alt="" width="40" /> | Writing Code is my passionate also coded result is my craft.  |
 | [pphat.netlify.app](https://github.com/pphatdev/pphat.netlify.app) | Portfolio Template: https://pphat.top |
+
+
+## [Chamroeun Norin](https://github.com/NYT92)
+    
+| [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 18... |
+| [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
 
 
 ## [Tang Heng](https://github.com/HenGPlayZ)

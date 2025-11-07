@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 15
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Nov 06 2025 00:54:28 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Nov 07 2025 00:54:04 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -16,11 +16,11 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [swing-modal-dialog](https://github.com/DJ-Raven/swing-modal-dialog) | Java Swing UI library custom with FlatLaf |
 
 
-## [Socheat Sok](https://github.com/socheatsok78)
+## [Socheat Sok m](https://github.com/socheatsok78)
     
 | [@socheatsok78](https://github.com/socheatsok78) | [❤️Sponsor](https://github.com/sponsors/socheatsok78) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/4363857?v=4" alt="" width="40" /> | 🇰🇭👨🏻‍💻 Software Engineer  ❤️ web technologies & systems languages  🫰 obsessed with @NixOS.  |
+| <img src="https://avatars.githubusercontent.com/u/4363857?v=4" alt="" width="40" /> | 🇰🇭👨🏻‍💻 Software Engineer  ❤️ web technologies & systems languages  🫰 obsessed with FOSS & @NixOS.  |
 | [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management |
 
 

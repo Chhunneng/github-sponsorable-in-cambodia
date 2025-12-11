@@ -57,6 +57,17 @@
     }
   },
   {
+    "login": "bsthen",
+    "name": "BAN Sothen",
+    "url": "https://github.com/bsthen",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "chantouchsek",
     "name": "Chantouch Sek",
     "url": "https://github.com/chantouchsek",
@@ -73,17 +84,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "bsthen",
-    "name": "BAN Sothen",
-    "url": "https://github.com/bsthen",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": []
     }
   },
   {

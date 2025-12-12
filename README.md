@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 15
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Dec 11 2025 00:58:21 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Dec 12 2025 00:57:54 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -68,7 +68,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 18... |
+| <img src="https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
 | [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
 
 

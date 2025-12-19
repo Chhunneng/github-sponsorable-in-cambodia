@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 15
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Dec 18 2025 00:54:44 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Dec 19 2025 00:58:06 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -24,20 +24,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management |
 
 
-## [BAN Sothen](https://github.com/bsthen)
-    
-| [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-
 ## [munyoudoum](https://github.com/munyoudoum)
     
 | [@munyoudoum](https://github.com/munyoudoum) | [❤️Sponsor](https://github.com/sponsors/munyoudoum) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/60089135?u=622506958fe0ccda18b648564f98b57e718b23cf&v=4" alt="" width="40" /> | # Todo: search for a cool bio |
 | [facebook_events_scraper](https://github.com/munyoudoum/facebook_events_scraper) | Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design |
+
+
+## [BAN Sothen](https://github.com/bsthen)
+    
+| [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Chantouch Sek](https://github.com/chantouchsek)

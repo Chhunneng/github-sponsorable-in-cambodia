@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 15
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Dec 30 2025 00:58:29 GMT+0000 (Coordinated Universal Time)
+- Last update: Wed Dec 31 2025 00:59:52 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -108,7 +108,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@emdiya](https://github.com/emdiya) | [❤️Sponsor](https://github.com/sponsors/emdiya) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4" alt="" width="40" /> | Software Developer ｜ Flutter Developer |
+| <img src="https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4" alt="" width="40" /> | Software Developer (Mobile, Backend, Frontend) |
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
 
 

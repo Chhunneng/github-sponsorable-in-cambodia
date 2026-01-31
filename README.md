@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 15
+- Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Jan 30 2026 01:08:52 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Jan 31 2026 01:06:11 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -86,6 +86,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
 | [Python-SIC-Mini-Project](https://github.com/MyKhode/Python-SIC-Mini-Project) | SAMSUNG SIC Finish Project Course - Python |
+
+
+## [Hangsia Hong](https://github.com/hangsiahong)
+    
+| [@hangsiahong](https://github.com/hangsiahong) | [❤️Sponsor](https://github.com/sponsors/hangsiahong) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4" alt="" width="40" /> | Life is like a soup and I'm a chopstick. |
+| [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
 
 
 ## [Hoeun Pichet](https://github.com/HoeunPichet)

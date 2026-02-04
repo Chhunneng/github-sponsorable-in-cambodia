@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Feb 03 2026 01:13:45 GMT+0000 (Coordinated Universal Time)
+- Last update: Wed Feb 04 2026 01:08:53 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -32,20 +32,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [facebook_events_scraper](https://github.com/munyoudoum/facebook_events_scraper) | Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design |
 
 
-## [Chantouch Sek](https://github.com/chantouchsek)
-    
-| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
-| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
-
-
 ## [BAN Sothen](https://github.com/bsthen)
     
 | [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
+
+
+## [Chantouch Sek](https://github.com/chantouchsek)
+    
+| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
+| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
 
 
 ## [Khem Puthea](https://github.com/putheakhem)
@@ -64,20 +64,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [pphat.netlify.app](https://github.com/pphatdev/pphat.netlify.app) | Portfolio Template: https://pphat.top |
 
 
-## [Chamroeun Norin](https://github.com/NYT92)
-    
-| [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
-| [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
-
-
 ## [Tang Heng](https://github.com/tangheng05)
     
 | [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/76139625?u=6d397cf2398e637215188496fcaa4a1098b85bb6&v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
+
+
+## [Chamroeun Norin](https://github.com/NYT92)
+    
+| [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
+| [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
 
 
 ## [Ikhode Studio](https://github.com/MyKhode)

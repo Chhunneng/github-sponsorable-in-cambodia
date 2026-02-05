@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Feb 04 2026 01:08:53 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Feb 05 2026 01:09:17 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -32,20 +32,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [facebook_events_scraper](https://github.com/munyoudoum/facebook_events_scraper) | Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design |
 
 
-## [BAN Sothen](https://github.com/bsthen)
-    
-| [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-
 ## [Chantouch Sek](https://github.com/chantouchsek)
     
 | [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
 | [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
+
+
+## [BAN Sothen](https://github.com/bsthen)
+    
+| [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Khem Puthea](https://github.com/putheakhem)

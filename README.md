@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Feb 08 2026 01:44:04 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Feb 09 2026 01:15:15 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -85,7 +85,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
-| [Python-SIC-Mini-Project](https://github.com/MyKhode/Python-SIC-Mini-Project) | SAMSUNG SIC Finish Project Course - Python |
+| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
 ## [Hangsia Hong](https://github.com/hangsiahong)

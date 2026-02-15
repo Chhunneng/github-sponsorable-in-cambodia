@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 16
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat Feb 14 2026 01:10:43 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Feb 15 2026 01:17:21 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -60,7 +60,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65520537?u=62573e3561c58d66138446c8f87843eb07061da6&v=4" alt="" width="40" /> | Writing Code is my passionate also coded result is my craft.  |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=4bb2d6f9f4d1f82a8de3c4e85a94c300866b819d&v=4" alt="" width="40" /> | Writing Code is my passionate also coded result is my craft.  |
 | [pphat.netlify.app](https://github.com/pphatdev/pphat.netlify.app) | Portfolio Template: https://pphat.top |
 
 

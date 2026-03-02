@@ -193,6 +193,25 @@
     }
   },
   {
+    "login": "VathanakSol",
+    "name": "Vathanak Sol",
+    "url": "https://github.com/VathanakSol",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102912156?u=76f419d09a36e7a81c1508f22e198fd895cbfc2f&v=4",
+    "bio": "🚀 Full-Stack Developer | DevOps Engineer",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "2050",
+            "description": null,
+            "url": "https://github.com/VathanakSol/2050"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "hakkimheng",
     "name": "Kimheng HAK",
     "url": "https://github.com/hakkimheng",

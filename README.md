@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 18
+- Total: 19
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Mar 01 2026 01:19:41 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Mar 02 2026 01:11:56 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -94,6 +94,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4" alt="" width="40" /> | Life is like a soup and I'm a chopstick. |
 | [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
+
+
+## [Vathanak Sol](https://github.com/VathanakSol)
+    
+| [@VathanakSol](https://github.com/VathanakSol) | [❤️Sponsor](https://github.com/sponsors/VathanakSol) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/102912156?u=76f419d09a36e7a81c1508f22e198fd895cbfc2f&v=4" alt="" width="40" /> | 🚀 Full-Stack Developer ｜ DevOps Engineer |
+| [2050](https://github.com/VathanakSol/2050) | <!-- no description --> |
 
 
 ## [Kimheng HAK](https://github.com/hakkimheng)

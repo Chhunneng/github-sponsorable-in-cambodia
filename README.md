@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 19
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Mar 03 2026 01:14:21 GMT+0000 (Coordinated Universal Time)
+- Last update: Wed Mar 04 2026 01:10:04 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -101,7 +101,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@VathanakSol](https://github.com/VathanakSol) | [❤️Sponsor](https://github.com/sponsors/VathanakSol) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/102912156?u=76f419d09a36e7a81c1508f22e198fd895cbfc2f&v=4" alt="" width="40" /> | 🚀 Full-Stack Developer ｜ DevOps Engineer |
-| [2050](https://github.com/VathanakSol/2050) | <!-- no description --> |
+| [coffee-finder](https://github.com/VathanakSol/coffee-finder) | <!-- no description --> |
 
 
 ## [Kimheng HAK](https://github.com/hakkimheng)

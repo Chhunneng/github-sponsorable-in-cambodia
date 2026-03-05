@@ -116,9 +116,9 @@
       "edges": [
         {
           "node": {
-            "name": "pphat.netlify.app",
-            "description": "Portfolio Template: https://pphat.top",
-            "url": "https://github.com/pphatdev/pphat.netlify.app"
+            "name": "github-stats",
+            "description": ":octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files!",
+            "url": "https://github.com/pphatdev/github-stats"
           }
         }
       ]

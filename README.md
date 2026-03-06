@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 19
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Mar 05 2026 01:12:44 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Mar 06 2026 01:15:53 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -144,18 +144,18 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
 
 
-## [Sophat Leat](https://github.com/L-Sophat)
-    
-| [@L-Sophat](https://github.com/L-Sophat) | [❤️Sponsor](https://github.com/sponsors/L-Sophat) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/87051743?u=852c5bf470157ea7df9ec13a82bb2e5384e15c78&v=4" alt="" width="40" /> | Hi |
-| <!-- no item --> | <!-- no description --> |
-
-
 ## [makmach](https://github.com/JacklynConn)
     
 | [@JacklynConn](https://github.com/JacklynConn) | [❤️Sponsor](https://github.com/sponsors/JacklynConn) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/148744079?u=b93e8a715f5e7bb2444360a877b460a27bd211ba&v=4" alt="" width="40" /> | ✨Mobile Developer🚀 ✨Education and training🚀 |
 | [api-komsan-app](https://github.com/JacklynConn/api-komsan-app) | <!-- no description --> |
+
+
+## [Sophat Leat](https://github.com/L-Sophat)
+    
+| [@L-Sophat](https://github.com/L-Sophat) | [❤️Sponsor](https://github.com/sponsors/L-Sophat) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/87051743?u=852c5bf470157ea7df9ec13a82bb2e5384e15c78&v=4" alt="" width="40" /> | Hi |
+| <!-- no item --> | <!-- no description --> |
 

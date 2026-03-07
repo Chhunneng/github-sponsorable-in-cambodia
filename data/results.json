@@ -174,25 +174,6 @@
     }
   },
   {
-    "login": "hangsiahong",
-    "name": "Hangsia Hong",
-    "url": "https://github.com/hangsiahong",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4",
-    "bio": "Life is like a soup and I'm a chopstick.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dotfile",
-            "description": "All of my configuration",
-            "url": "https://github.com/hangsiahong/dotfile"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "VathanakSol",
     "name": "Vathanak Sol",
     "url": "https://github.com/VathanakSol",
@@ -206,6 +187,25 @@
             "name": "coffee-finder",
             "description": null,
             "url": "https://github.com/VathanakSol/coffee-finder"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "hangsiahong",
+    "name": "Hangsia Hong",
+    "url": "https://github.com/hangsiahong",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4",
+    "bio": "Life is like a soup and I'm a chopstick.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dotfile",
+            "description": "All of my configuration",
+            "url": "https://github.com/hangsiahong/dotfile"
           }
         }
       ]

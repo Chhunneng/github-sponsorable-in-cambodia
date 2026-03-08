@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 19
+- Total: 20
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat Mar 07 2026 01:07:37 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Mar 08 2026 01:13:04 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -126,6 +126,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/80959071?u=7af11ab92e5ec32bda8daa876017f82cd4d22de9&v=4" alt="" width="40" /> | Always with you |
 | <!-- no item --> | <!-- no description --> |
+
+
+## [EoF Software Lab](https://github.com/britus)
+    
+| [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages are C/C++, Java |
+| [VSPDriver](https://github.com/britus/VSPDriver) | Virtual Serial Port Driver for MacOS |
 
 
 ## [Panha](https://github.com/YStorm5)

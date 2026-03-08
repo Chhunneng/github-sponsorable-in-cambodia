@@ -261,6 +261,25 @@
     }
   },
   {
+    "login": "britus",
+    "name": "EoF Software Lab",
+    "url": "https://github.com/britus",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4",
+    "bio": "Major languages are C/C++, Java",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "VSPDriver",
+            "description": "Virtual Serial Port Driver for MacOS",
+            "url": "https://github.com/britus/VSPDriver"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "YStorm5",
     "name": "Panha",
     "url": "https://github.com/YStorm5",

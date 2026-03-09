@@ -57,6 +57,17 @@
     }
   },
   {
+    "login": "bsthen",
+    "name": "BAN Sothen",
+    "url": "https://github.com/bsthen",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "chantouchsek",
     "name": "Chantouch Sek",
     "url": "https://github.com/chantouchsek",
@@ -73,17 +84,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "bsthen",
-    "name": "BAN Sothen",
-    "url": "https://github.com/bsthen",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": []
     }
   },
   {
@@ -193,25 +193,6 @@
     }
   },
   {
-    "login": "hangsiahong",
-    "name": "Hangsia Hong",
-    "url": "https://github.com/hangsiahong",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4",
-    "bio": "Life is like a soup and I'm a chopstick.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dotfile",
-            "description": "All of my configuration",
-            "url": "https://github.com/hangsiahong/dotfile"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "hakkimheng",
     "name": "Kimheng HAK",
     "url": "https://github.com/hakkimheng",
@@ -225,6 +206,25 @@
             "name": "Blissful-Skin",
             "description": null,
             "url": "https://github.com/hakkimheng/Blissful-Skin"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "hangsiahong",
+    "name": "Hangsia Hong",
+    "url": "https://github.com/hangsiahong",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4",
+    "bio": "Life is like a soup and I'm a chopstick.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dotfile",
+            "description": "All of my configuration",
+            "url": "https://github.com/hangsiahong/dotfile"
           }
         }
       ]

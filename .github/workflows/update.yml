@@ -17,17 +17,28 @@ jobs:
     name: Update Resources
     steps:
       - uses: actions/checkout@v3
+      - name: Check if should run
+        run: |
+          if [ $((RANDOM % 7)) -lt 3 ]; then
+            echo "RUN=true" >> $GITHUB_ENV
+          else
+            echo "RUN=false" >> $GITHUB_ENV
+          fi
       - name: Setup Node.js
+        if: env.RUN == 'true'
         uses: actions/setup-node@v3
         with:
           node-version: 18
       - name: Install Dependencies
+        if: env.RUN == 'true'
         run: npm ci
       - name: Update Resources
+        if: env.RUN == 'true'
         run: npm run update:resources && npm run update:readme
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit Changes
+        if: env.RUN == 'true'
         uses: EndBug/add-and-commit@v9
         with:
           author_name: ${{ github.actor }}

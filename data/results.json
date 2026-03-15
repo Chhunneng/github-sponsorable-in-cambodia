@@ -38,6 +38,25 @@
     }
   },
   {
+    "login": "MuyleangIng",
+    "name": "Muyleang Ing ",
+    "url": "https://github.com/MuyleangIng",
+    "location": "Phnom Penh  City  ,Cambodia ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116934056?u=af25726c93adad9a09dee7751c5c1e710b7856bc&v=4",
+    "bio": "👋 Hi, I'm Ing Muyleang\r\n- DevOps Engineering research student @ISTAD\r\n- CS graduate from RUPP\r\n- Quantum Lab researcher @PKNU\r\n- M.S. AI Convergence (ongoing)",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "kubespray",
+            "description": null,
+            "url": "https://github.com/MuyleangIng/kubespray"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "munyoudoum",
     "name": null,
     "url": "https://github.com/munyoudoum",

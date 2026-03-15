@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 20
+- Total: 21
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Mar 11 2026 01:07:57 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Mar 15 2026 01:21:53 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -22,6 +22,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/4363857?v=4" alt="" width="40" /> | 🇰🇭👨🏻‍💻 Software Engineer  ❤️ web technologies & systems languages  🫰 obsessed with FOSS & @NixOS.  |
 | [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management |
+
+
+## [Muyleang Ing ](https://github.com/MuyleangIng)
+    
+| [@MuyleangIng](https://github.com/MuyleangIng) | [❤️Sponsor](https://github.com/sponsors/MuyleangIng) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/116934056?u=af25726c93adad9a09dee7751c5c1e710b7856bc&v=4" alt="" width="40" /> | 👋 Hi, I'm Ing Muyleang - DevOps Engineering research student @ISTAD - CS graduate from RUPP - Quantum Lab researcher @PKNU - M.S. AI Convergence (ongoing) |
+| [kubespray](https://github.com/MuyleangIng/kubespray) | <!-- no description --> |
 
 
 ## [munyoudoum](https://github.com/munyoudoum)

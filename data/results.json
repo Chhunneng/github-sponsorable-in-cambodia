@@ -106,6 +106,25 @@
     }
   },
   {
+    "login": "cbrunnkvist",
+    "name": "Conny Brunnkvist",
+    "url": "https://github.com/cbrunnkvist",
+    "location": "Siem Reap, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34006?v=4",
+    "bio": "@CasualSecurityInc ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "NanoNymNault",
+            "description": "Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym.",
+            "url": "https://github.com/cbrunnkvist/NanoNymNault"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "putheakhem",
     "name": "Khem Puthea",
     "url": "https://github.com/putheakhem",
@@ -159,7 +178,7 @@
     "name": "Chamroeun Norin",
     "url": "https://github.com/NYT92",
     "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53612429?u=ac02b0445432b33e64d3856673692d2d9bea7b37&v=4",
     "bio": "stupid cambodian developer at the age of 20...",
     "pinnedItems": {
       "edges": [
@@ -212,25 +231,6 @@
     }
   },
   {
-    "login": "hangsiahong",
-    "name": "Hangsia Hong",
-    "url": "https://github.com/hangsiahong",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4",
-    "bio": "Life is like a soup and I'm a chopstick.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "dotfile",
-            "description": "All of my configuration",
-            "url": "https://github.com/hangsiahong/dotfile"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "hakkimheng",
     "name": "Kimheng HAK",
     "url": "https://github.com/hakkimheng",
@@ -263,6 +263,25 @@
             "name": "kiri-ocr",
             "description": "Kiri OCR is a lightweight, OCR library for English and Khmer documents.",
             "url": "https://github.com/mrrtmob/kiri-ocr"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "hangsiahong",
+    "name": "Hangsia Hong",
+    "url": "https://github.com/hangsiahong",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4",
+    "bio": "Life is like a soup and I'm a chopstick.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dotfile",
+            "description": "All of my configuration",
+            "url": "https://github.com/hangsiahong/dotfile"
           }
         }
       ]

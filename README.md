@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 21
+- Total: 22
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Mar 25 2026 01:15:43 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Apr 02 2026 01:19:02 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -56,6 +56,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
 
 
+## [Conny Brunnkvist](https://github.com/cbrunnkvist)
+    
+| [@cbrunnkvist](https://github.com/cbrunnkvist) | [❤️Sponsor](https://github.com/sponsors/cbrunnkvist) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/34006?v=4" alt="" width="40" /> | @CasualSecurityInc  |
+| [NanoNymNault](https://github.com/cbrunnkvist/NanoNymNault) | Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym. |
+
+
 ## [Khem Puthea](https://github.com/putheakhem)
     
 | [@putheakhem](https://github.com/putheakhem) | [❤️Sponsor](https://github.com/sponsors/putheakhem) |
@@ -84,7 +92,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/53612429?u=3234788cb65dbff4a7dabd0976d48d7ac870259f&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
+| <img src="https://avatars.githubusercontent.com/u/53612429?u=ac02b0445432b33e64d3856673692d2d9bea7b37&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
 | [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
 
 
@@ -104,14 +112,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [coffee-finder](https://github.com/VathanakSol/coffee-finder) | <!-- no description --> |
 
 
-## [Hangsia Hong](https://github.com/hangsiahong)
-    
-| [@hangsiahong](https://github.com/hangsiahong) | [❤️Sponsor](https://github.com/sponsors/hangsiahong) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4" alt="" width="40" /> | Life is like a soup and I'm a chopstick. |
-| [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
-
-
 ## [Kimheng HAK](https://github.com/hakkimheng)
     
 | [@hakkimheng](https://github.com/hakkimheng) | [❤️Sponsor](https://github.com/sponsors/hakkimheng) |
@@ -126,6 +126,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
 | [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
+
+
+## [Hangsia Hong](https://github.com/hangsiahong)
+    
+| [@hangsiahong](https://github.com/hangsiahong) | [❤️Sponsor](https://github.com/sponsors/hangsiahong) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4" alt="" width="40" /> | Life is like a soup and I'm a chopstick. |
+| [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
 
 
 ## [Hoeun Pichet](https://github.com/HoeunPichet)

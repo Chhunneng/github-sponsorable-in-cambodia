@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 22
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Apr 05 2026 01:24:53 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Apr 12 2026 01:28:55 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -76,7 +76,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65520537?u=4bb2d6f9f4d1f82a8de3c4e85a94c300866b819d&v=4" alt="" width="40" /> | Build what I want & what I need 👀 |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=4bb2d6f9f4d1f82a8de3c4e85a94c300866b819d&v=4" alt="" width="40" /> | Build what I want & what I need 👀, I don't know how far I can go, Just keep going 🦥 |
 | [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
 
 
@@ -96,6 +96,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
 
 
+## [Ikhode Studio](https://github.com/MyKhode)
+    
+| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
+| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
+
+
 ## [Vathanak Sol](https://github.com/VathanakSol)
     
 | [@VathanakSol](https://github.com/VathanakSol) | [❤️Sponsor](https://github.com/sponsors/VathanakSol) |
@@ -104,12 +112,12 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [coffee-finder](https://github.com/VathanakSol/coffee-finder) | <!-- no description --> |
 
 
-## [Ikhode Studio](https://github.com/MyKhode)
+## [Hangsia Hong](https://github.com/hangsiahong)
     
-| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
+| [@hangsiahong](https://github.com/hangsiahong) | [❤️Sponsor](https://github.com/sponsors/hangsiahong) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
-| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
+| <img src="https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4" alt="" width="40" /> | Life is like a soup and I'm a chopstick. |
+| [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
 
 
 ## [Kimheng HAK](https://github.com/hakkimheng)
@@ -126,14 +134,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
 | [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
-
-
-## [Hangsia Hong](https://github.com/hangsiahong)
-    
-| [@hangsiahong](https://github.com/hangsiahong) | [❤️Sponsor](https://github.com/sponsors/hangsiahong) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4" alt="" width="40" /> | Life is like a soup and I'm a chopstick. |
-| [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
 
 
 ## [Hoeun Pichet](https://github.com/HoeunPichet)
@@ -168,18 +168,18 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
 
 
-## [Sophat Leat](https://github.com/L-Sophat)
-    
-| [@L-Sophat](https://github.com/L-Sophat) | [❤️Sponsor](https://github.com/sponsors/L-Sophat) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/87051743?u=852c5bf470157ea7df9ec13a82bb2e5384e15c78&v=4" alt="" width="40" /> | Hi |
-| <!-- no item --> | <!-- no description --> |
-
-
 ## [makmach](https://github.com/JacklynConn)
     
 | [@JacklynConn](https://github.com/JacklynConn) | [❤️Sponsor](https://github.com/sponsors/JacklynConn) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/148744079?u=b93e8a715f5e7bb2444360a877b460a27bd211ba&v=4" alt="" width="40" /> | ✨Mobile Developer🚀 ✨Education and training🚀 |
 | [api-komsan-app](https://github.com/JacklynConn/api-komsan-app) | <!-- no description --> |
+
+
+## [Sophat Leat](https://github.com/L-Sophat)
+    
+| [@L-Sophat](https://github.com/L-Sophat) | [❤️Sponsor](https://github.com/sponsors/L-Sophat) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/87051743?u=852c5bf470157ea7df9ec13a82bb2e5384e15c78&v=4" alt="" width="40" /> | Hi |
+| <!-- no item --> | <!-- no description --> |
 

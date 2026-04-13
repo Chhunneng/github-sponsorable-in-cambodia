@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 22
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Apr 12 2026 01:28:55 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Apr 13 2026 01:46:15 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -80,20 +80,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
 
 
-## [Tang Heng](https://github.com/tangheng05)
-    
-| [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/76139625?u=6d397cf2398e637215188496fcaa4a1098b85bb6&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-
 ## [Chamroeun Norin](https://github.com/NYT92)
     
 | [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/53612429?u=ac02b0445432b33e64d3856673692d2d9bea7b37&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
 | [artistdb](https://github.com/nyt92org/artistdb) | (Coming Soon) Quickly find artist you love from all around the world... |
+
+
+## [Tang Heng](https://github.com/tangheng05)
+    
+| [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/76139625?u=6d397cf2398e637215188496fcaa4a1098b85bb6&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Ikhode Studio](https://github.com/MyKhode)

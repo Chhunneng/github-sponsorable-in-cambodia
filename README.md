@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 22
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Mon Apr 13 2026 01:46:15 GMT+0000 (Coordinated Universal Time)
+- Last update: Wed Apr 15 2026 01:24:40 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -96,20 +96,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
-## [Ikhode Studio](https://github.com/MyKhode)
-    
-| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
-| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
-
-
 ## [Vathanak Sol](https://github.com/VathanakSol)
     
 | [@VathanakSol](https://github.com/VathanakSol) | [❤️Sponsor](https://github.com/sponsors/VathanakSol) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/102912156?u=76f419d09a36e7a81c1508f22e198fd895cbfc2f&v=4" alt="" width="40" /> | 🚀 Full-Stack Developer ｜ DevOps Engineer |
 | [coffee-finder](https://github.com/VathanakSol/coffee-finder) | <!-- no description --> |
+
+
+## [Ikhode Studio](https://github.com/MyKhode)
+    
+| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
+| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
 ## [Hangsia Hong](https://github.com/hangsiahong)

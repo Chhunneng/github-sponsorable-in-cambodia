@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 22
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Apr 19 2026 01:44:48 GMT+0000 (Coordinated Universal Time)
+- Last update: Tue Apr 21 2026 01:28:27 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -112,6 +112,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
+## [Tmob](https://github.com/mrrtmob)
+    
+| [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
+| [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
+
+
 ## [Hangsia Hong](https://github.com/hangsiahong)
     
 | [@hangsiahong](https://github.com/hangsiahong) | [❤️Sponsor](https://github.com/sponsors/hangsiahong) |
@@ -126,14 +134,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/110073572?u=a21e843bc8800325740ff6e956d9639f08dc2884&v=4" alt="" width="40" /> |  |
 | [Blissful-Skin](https://github.com/hakkimheng/Blissful-Skin) | <!-- no description --> |
-
-
-## [Tmob](https://github.com/mrrtmob)
-    
-| [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
-| [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
 
 
 ## [Hoeun Pichet](https://github.com/HoeunPichet)

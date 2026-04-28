@@ -174,7 +174,7 @@
         {
           "node": {
             "name": "artistdb",
-            "description": "(Coming Soon) Quickly find artist you love from all around the world...",
+            "description": "An Open Database of SFW & NSFW artists",
             "url": "https://github.com/nyt92org/artistdb"
           }
         }

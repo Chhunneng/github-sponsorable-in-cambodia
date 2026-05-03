@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 22
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Apr 30 2026 01:59:48 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun May 03 2026 01:53:05 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -96,6 +96,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
+## [Tmob](https://github.com/mrrtmob)
+    
+| [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
+| [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
+
+
 ## [Vathanak Sol](https://github.com/VathanakSol)
     
 | [@VathanakSol](https://github.com/VathanakSol) | [❤️Sponsor](https://github.com/sponsors/VathanakSol) |
@@ -110,14 +118,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
 | [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
-
-
-## [Tmob](https://github.com/mrrtmob)
-    
-| [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
-| [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
 
 
 ## [Hangsia Hong](https://github.com/hangsiahong)
@@ -148,7 +148,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages are C/C++, Java |
+| <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages are C/C++, ObjectivC, Swift, Java |
 | [VSPDriver](https://github.com/britus/VSPDriver) | Virtual Serial Port Driver for MacOS |
 
 
@@ -164,7 +164,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@emdiya](https://github.com/emdiya) | [❤️Sponsor](https://github.com/sponsors/emdiya) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4" alt="" width="40" /> | Software Developer (Mobile, Backend, Frontend) |
+| <img src="https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4" alt="" width="40" /> | Senior Software Developer (Mobile, Backend, Frontend) |
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
 
 

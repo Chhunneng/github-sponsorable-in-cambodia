@@ -193,6 +193,25 @@
     }
   },
   {
+    "login": "mrrtmob",
+    "name": "Tmob",
+    "url": "https://github.com/mrrtmob",
+    "location": "Phnom penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4",
+    "bio": "Working with Attention. It's all we need.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "kiri-ocr",
+            "description": "Kiri OCR is a lightweight, OCR library for English and Khmer documents.",
+            "url": "https://github.com/mrrtmob/kiri-ocr"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "VathanakSol",
     "name": "Vathanak Sol",
     "url": "https://github.com/VathanakSol",
@@ -225,25 +244,6 @@
             "name": "Telegram-Chatbot",
             "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
             "url": "https://github.com/MyKhode/Telegram-Chatbot"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "mrrtmob",
-    "name": "Tmob",
-    "url": "https://github.com/mrrtmob",
-    "location": "Phnom penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4",
-    "bio": "Working with Attention. It's all we need.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "kiri-ocr",
-            "description": "Kiri OCR is a lightweight, OCR library for English and Khmer documents.",
-            "url": "https://github.com/mrrtmob/kiri-ocr"
           }
         }
       ]
@@ -304,7 +304,7 @@
     "url": "https://github.com/britus",
     "location": "Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4",
-    "bio": "Major languages are C/C++, Java",
+    "bio": "Major languages are C/C++, ObjectivC, Swift, Java",
     "pinnedItems": {
       "edges": [
         {
@@ -342,7 +342,7 @@
     "url": "https://github.com/emdiya",
     "location": "Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4",
-    "bio": "Software Developer (Mobile, Backend, Frontend)",
+    "bio": "Senior Software Developer (Mobile, Backend, Frontend)",
     "pinnedItems": {
       "edges": [
         {

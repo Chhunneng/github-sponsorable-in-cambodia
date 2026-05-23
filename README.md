@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 22
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun May 10 2026 01:56:23 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat May 23 2026 02:03:17 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -40,20 +40,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [facebook_events_scraper](https://github.com/munyoudoum/facebook_events_scraper) | Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design |
 
 
-## [BAN Sothen](https://github.com/bsthen)
-    
-| [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-
 ## [Chantouch Sek](https://github.com/chantouchsek)
     
 | [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
 | [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
+
+
+## [BAN Sothen](https://github.com/bsthen)
+    
+| [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Conny Brunnkvist](https://github.com/cbrunnkvist)
@@ -80,6 +80,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
 
 
+## [Vathanak Sol](https://github.com/VathanakSol)
+    
+| [@VathanakSol](https://github.com/VathanakSol) | [❤️Sponsor](https://github.com/sponsors/VathanakSol) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/102912156?u=76f419d09a36e7a81c1508f22e198fd895cbfc2f&v=4" alt="" width="40" /> | 🚀 Full-Stack Developer ｜ DevOps Engineer |
+| [coffee-finder](https://github.com/VathanakSol/coffee-finder) | <!-- no description --> |
+
+
 ## [Chamroeun Norin](https://github.com/NYT92)
     
 | [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
@@ -96,28 +104,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
-## [Tmob](https://github.com/mrrtmob)
-    
-| [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
-| [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
-
-
-## [Vathanak Sol](https://github.com/VathanakSol)
-    
-| [@VathanakSol](https://github.com/VathanakSol) | [❤️Sponsor](https://github.com/sponsors/VathanakSol) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/102912156?u=76f419d09a36e7a81c1508f22e198fd895cbfc2f&v=4" alt="" width="40" /> | 🚀 Full-Stack Developer ｜ DevOps Engineer |
-| [coffee-finder](https://github.com/VathanakSol/coffee-finder) | <!-- no description --> |
-
-
 ## [Ikhode Studio](https://github.com/MyKhode)
     
 | [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
 | [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
+
+
+## [Tmob](https://github.com/mrrtmob)
+    
+| [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
+| [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
 
 
 ## [Hangsia Hong](https://github.com/hangsiahong)
@@ -144,20 +144,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
-## [EoF Software Lab](https://github.com/britus)
-    
-| [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages are C/C++, ObjectivC, Swift, Java |
-| [VSPDriver](https://github.com/britus/VSPDriver) | Virtual Serial Port Driver for MacOS |
-
-
 ## [Panha](https://github.com/YStorm5)
     
 | [@YStorm5](https://github.com/YStorm5) | [❤️Sponsor](https://github.com/sponsors/YStorm5) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/91424540?u=9781906fc35340bf3c4eb352935add9df11815d0&v=4" alt="" width="40" /> | Programming Enthusiast |
 | [scrape](https://github.com/YStorm5/scrape) | Library to scrape data from a website. |
+
+
+## [EoF Software Lab](https://github.com/britus)
+    
+| [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages are C/C++, ObjectivC, Swift, Java |
+| [VSPDriver](https://github.com/britus/VSPDriver) | Virtual Serial Port Driver for MacOS |
 
 
 ## [EM DiYA](https://github.com/emdiya)

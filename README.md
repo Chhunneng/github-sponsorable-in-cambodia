@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 22
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat May 23 2026 02:03:17 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun May 24 2026 02:11:50 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -61,7 +61,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@cbrunnkvist](https://github.com/cbrunnkvist) | [❤️Sponsor](https://github.com/sponsors/cbrunnkvist) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/34006?v=4" alt="" width="40" /> | @CasualSecurityInc  |
-| [NanoNymNault](https://github.com/cbrunnkvist/NanoNymNault) | Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym. |
+| [xno-skills](https://github.com/CasualSecurityInc/xno-skills) | AI agent Skill, MCP server, and CLI for transacting in the Nano (XNO) cryptocurrency. Manage wallets securely via OWS, sign messages, and build seamless zero-fee integrations. |
 
 
 ## [Khem Puthea](https://github.com/putheakhem)

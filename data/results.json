@@ -116,9 +116,9 @@
       "edges": [
         {
           "node": {
-            "name": "NanoNymNault",
-            "description": "Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym.",
-            "url": "https://github.com/cbrunnkvist/NanoNymNault"
+            "name": "xno-skills",
+            "description": "AI agent Skill, MCP server, and CLI for transacting in the Nano (XNO) cryptocurrency. Manage wallets securely via OWS, sign messages, and build seamless zero-fee integrations.",
+            "url": "https://github.com/CasualSecurityInc/xno-skills"
           }
         }
       ]

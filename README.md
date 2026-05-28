@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 22
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun May 24 2026 02:11:50 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu May 28 2026 02:04:20 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -12,7 +12,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@DJ-Raven](https://github.com/DJ-Raven) | [❤️Sponsor](https://github.com/sponsors/DJ-Raven) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/58245926?u=78ab63b6e1e19aedf425dea27f74f5c661be7524&v=4" alt="" width="40" /> | Java Developer |
+| <img src="https://avatars.githubusercontent.com/u/58245926?v=4" alt="" width="40" /> | Java Developer |
 | [swing-modal-dialog](https://github.com/DJ-Raven/swing-modal-dialog) | Java Swing UI library custom with FlatLaf |
 
 
@@ -40,14 +40,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [facebook_events_scraper](https://github.com/munyoudoum/facebook_events_scraper) | Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design |
 
 
-## [Chantouch Sek](https://github.com/chantouchsek)
-    
-| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
-| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
-
-
 ## [BAN Sothen](https://github.com/bsthen)
     
 | [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
@@ -56,11 +48,19 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
+## [Chantouch Sek](https://github.com/chantouchsek)
+    
+| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
+| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
+
+
 ## [Conny Brunnkvist](https://github.com/cbrunnkvist)
     
 | [@cbrunnkvist](https://github.com/cbrunnkvist) | [❤️Sponsor](https://github.com/sponsors/cbrunnkvist) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/34006?v=4" alt="" width="40" /> | @CasualSecurityInc  |
+| <img src="https://avatars.githubusercontent.com/u/34006?v=4" alt="" width="40" /> | Also does @CasualSecurityInc things and drive @OpenRai  |
 | [xno-skills](https://github.com/CasualSecurityInc/xno-skills) | AI agent Skill, MCP server, and CLI for transacting in the Nano (XNO) cryptocurrency. Manage wallets securely via OWS, sign messages, and build seamless zero-fee integrations. |
 
 

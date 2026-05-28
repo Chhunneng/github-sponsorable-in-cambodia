@@ -4,7 +4,7 @@
     "name": "Raven Laing",
     "url": "https://github.com/DJ-Raven",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58245926?u=78ab63b6e1e19aedf425dea27f74f5c661be7524&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58245926?v=4",
     "bio": "Java Developer",
     "pinnedItems": {
       "edges": [
@@ -76,6 +76,17 @@
     }
   },
   {
+    "login": "bsthen",
+    "name": "BAN Sothen",
+    "url": "https://github.com/bsthen",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "chantouchsek",
     "name": "Chantouch Sek",
     "url": "https://github.com/chantouchsek",
@@ -95,23 +106,12 @@
     }
   },
   {
-    "login": "bsthen",
-    "name": "BAN Sothen",
-    "url": "https://github.com/bsthen",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "cbrunnkvist",
     "name": "Conny Brunnkvist",
     "url": "https://github.com/cbrunnkvist",
     "location": "Siem Reap, Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/34006?v=4",
-    "bio": "@CasualSecurityInc ",
+    "bio": "Also does @CasualSecurityInc things and drive @OpenRai ",
     "pinnedItems": {
       "edges": [
         {

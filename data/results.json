@@ -212,25 +212,6 @@
     }
   },
   {
-    "login": "MyKhode",
-    "name": "Ikhode Studio",
-    "url": "https://github.com/MyKhode",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4",
-    "bio": "do what you love, just try your best  🇰🇭 ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Telegram-Chatbot",
-            "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
-            "url": "https://github.com/MyKhode/Telegram-Chatbot"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "mrrtmob",
     "name": "Tmob",
     "url": "https://github.com/mrrtmob",
@@ -244,6 +225,25 @@
             "name": "kiri-ocr",
             "description": "Kiri OCR is a lightweight, OCR library for English and Khmer documents.",
             "url": "https://github.com/mrrtmob/kiri-ocr"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "MyKhode",
+    "name": "Ikhode Studio",
+    "url": "https://github.com/MyKhode",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4",
+    "bio": "do what you love, just try your best  🇰🇭 ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Telegram-Chatbot",
+            "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
+            "url": "https://github.com/MyKhode/Telegram-Chatbot"
           }
         }
       ]

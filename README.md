@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 22
+- Total: 23
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Jun 02 2026 02:39:03 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Jun 11 2026 02:39:11 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -14,6 +14,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/58245926?v=4" alt="" width="40" /> | Java Developer |
 | [swing-modal-dialog](https://github.com/DJ-Raven/swing-modal-dialog) | Java Swing UI library custom with FlatLaf |
+
+
+## [Seanghay Yath](https://github.com/seanghay)
+    
+| [@seanghay](https://github.com/seanghay) | [❤️Sponsor](https://github.com/sponsors/seanghay) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/15277233?u=bbe66b256e0eb794b36a16811f1ca5f590a27909&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Socheat](https://github.com/socheatsok78)
@@ -60,7 +68,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@cbrunnkvist](https://github.com/cbrunnkvist) | [❤️Sponsor](https://github.com/sponsors/cbrunnkvist) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/34006?v=4" alt="" width="40" /> | Also does @CasualSecurityInc things and drive @OpenRai  |
+| <img src="https://avatars.githubusercontent.com/u/34006?u=59512a983166532d22c59bcc7e9c5b196f807207&v=4" alt="" width="40" /> | Also does @CasualSecurityInc things and drive @OpenRai  |
 | [xno-skills](https://github.com/CasualSecurityInc/xno-skills) | AI agent Skill, MCP server, and CLI for transacting in the Nano (XNO) cryptocurrency. Manage wallets securely via OWS, sign messages, and build seamless zero-fee integrations. |
 
 
@@ -84,7 +92,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@VathanakSol](https://github.com/VathanakSol) | [❤️Sponsor](https://github.com/sponsors/VathanakSol) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/102912156?u=76f419d09a36e7a81c1508f22e198fd895cbfc2f&v=4" alt="" width="40" /> | 🚀 Full-Stack Developer ｜ DevOps Engineer |
+| <img src="https://avatars.githubusercontent.com/u/102912156?u=76f419d09a36e7a81c1508f22e198fd895cbfc2f&v=4" alt="" width="40" /> | 🚀 DevOps and Automation |
 | [coffee-finder](https://github.com/VathanakSol/coffee-finder) | <!-- no description --> |
 
 
@@ -92,7 +100,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/53612429?u=ac02b0445432b33e64d3856673692d2d9bea7b37&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
+| <img src="https://avatars.githubusercontent.com/u/53612429?u=94e650fa34a08a526c808da3b09458575f3ce915&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
 | [artistdb](https://github.com/nyt92org/artistdb) | An Open Database of SFW & NSFW artists |
 
 
@@ -104,20 +112,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
-## [Tmob](https://github.com/mrrtmob)
-    
-| [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
-| [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
-
-
 ## [Ikhode Studio](https://github.com/MyKhode)
     
 | [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
 | [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
+
+
+## [Tmob](https://github.com/mrrtmob)
+    
+| [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
+| [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
 
 
 ## [Hangsia Hong](https://github.com/hangsiahong)
@@ -156,7 +164,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages are C/C++, ObjectivC, Swift, Java |
+| <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages: C/C++, ObjectivC, Swift, Java |
 | [VSPDriver](https://github.com/britus/VSPDriver) | Virtual Serial Port Driver for MacOS |
 
 

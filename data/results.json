@@ -19,6 +19,17 @@
     }
   },
   {
+    "login": "seanghay",
+    "name": "Seanghay Yath",
+    "url": "https://github.com/seanghay",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15277233?u=bbe66b256e0eb794b36a16811f1ca5f590a27909&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "socheatsok78",
     "name": "Socheat",
     "url": "https://github.com/socheatsok78",
@@ -110,7 +121,7 @@
     "name": "Conny Brunnkvist",
     "url": "https://github.com/cbrunnkvist",
     "location": "Siem Reap, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/34006?v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34006?u=59512a983166532d22c59bcc7e9c5b196f807207&v=4",
     "bio": "Also does @CasualSecurityInc things and drive @OpenRai ",
     "pinnedItems": {
       "edges": [
@@ -168,7 +179,7 @@
     "url": "https://github.com/VathanakSol",
     "location": "Phnom Penh, Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102912156?u=76f419d09a36e7a81c1508f22e198fd895cbfc2f&v=4",
-    "bio": "🚀 Full-Stack Developer | DevOps Engineer",
+    "bio": "🚀 DevOps and Automation",
     "pinnedItems": {
       "edges": [
         {
@@ -186,7 +197,7 @@
     "name": "Chamroeun Norin",
     "url": "https://github.com/NYT92",
     "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53612429?u=ac02b0445432b33e64d3856673692d2d9bea7b37&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53612429?u=94e650fa34a08a526c808da3b09458575f3ce915&v=4",
     "bio": "stupid cambodian developer at the age of 20...",
     "pinnedItems": {
       "edges": [
@@ -212,25 +223,6 @@
     }
   },
   {
-    "login": "mrrtmob",
-    "name": "Tmob",
-    "url": "https://github.com/mrrtmob",
-    "location": "Phnom penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4",
-    "bio": "Working with Attention. It's all we need.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "kiri-ocr",
-            "description": "Kiri OCR is a lightweight, OCR library for English and Khmer documents.",
-            "url": "https://github.com/mrrtmob/kiri-ocr"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "MyKhode",
     "name": "Ikhode Studio",
     "url": "https://github.com/MyKhode",
@@ -244,6 +236,25 @@
             "name": "Telegram-Chatbot",
             "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
             "url": "https://github.com/MyKhode/Telegram-Chatbot"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "mrrtmob",
+    "name": "Tmob",
+    "url": "https://github.com/mrrtmob",
+    "location": "Phnom penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4",
+    "bio": "Working with Attention. It's all we need.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "kiri-ocr",
+            "description": "Kiri OCR is a lightweight, OCR library for English and Khmer documents.",
+            "url": "https://github.com/mrrtmob/kiri-ocr"
           }
         }
       ]
@@ -323,7 +334,7 @@
     "url": "https://github.com/britus",
     "location": "Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4",
-    "bio": "Major languages are C/C++, ObjectivC, Swift, Java",
+    "bio": "Major languages: C/C++, ObjectivC, Swift, Java",
     "pinnedItems": {
       "edges": [
         {

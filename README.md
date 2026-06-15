@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 23
+- Total: 24
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Jun 11 2026 02:39:11 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Jun 15 2026 02:44:09 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -69,7 +69,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@cbrunnkvist](https://github.com/cbrunnkvist) | [❤️Sponsor](https://github.com/sponsors/cbrunnkvist) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/34006?u=59512a983166532d22c59bcc7e9c5b196f807207&v=4" alt="" width="40" /> | Also does @CasualSecurityInc things and drive @OpenRai  |
-| [xno-skills](https://github.com/CasualSecurityInc/xno-skills) | AI agent Skill, MCP server, and CLI for transacting in the Nano (XNO) cryptocurrency. Manage wallets securely via OWS, sign messages, and build seamless zero-fee integrations. |
+| [NanoNymNault](https://github.com/cbrunnkvist/NanoNymNault) | Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym. |
 
 
 ## [Khem Puthea](https://github.com/putheakhem)
@@ -78,6 +78,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/8064772?u=a243690fa6d1ddacc2a4bed6554bcb686085d152&v=4" alt="" width="40" /> | AI & DevOps |
 | [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
+
+
+## [Moremi Vannak](https://github.com/rinn7e)
+    
+| [@rinn7e](https://github.com/rinn7e) | [❤️Sponsor](https://github.com/sponsors/rinn7e) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/8400953?u=8b07286613fd20500a411f3349ae15dd60db0deb&v=4" alt="" width="40" /> | Enthusiastic Functional Programmer, specialized in Haskell, Typescript(fp-ts), Purescript, and Elm. |
+| [cambodia-law-dataset](https://github.com/rinn7e/cambodia-law-dataset) | Cambodia Law Dataset |
 
 
 ## [pphat](https://github.com/pphatdev)
@@ -112,20 +120,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
-## [Ikhode Studio](https://github.com/MyKhode)
-    
-| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
-| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
-
-
 ## [Tmob](https://github.com/mrrtmob)
     
 | [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
 | [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
+
+
+## [Ikhode Studio](https://github.com/MyKhode)
+    
+| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
+| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
 ## [Hangsia Hong](https://github.com/hangsiahong)

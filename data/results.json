@@ -127,9 +127,9 @@
       "edges": [
         {
           "node": {
-            "name": "xno-skills",
-            "description": "AI agent Skill, MCP server, and CLI for transacting in the Nano (XNO) cryptocurrency. Manage wallets securely via OWS, sign messages, and build seamless zero-fee integrations.",
-            "url": "https://github.com/CasualSecurityInc/xno-skills"
+            "name": "NanoNymNault",
+            "description": "Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym.",
+            "url": "https://github.com/cbrunnkvist/NanoNymNault"
           }
         }
       ]
@@ -149,6 +149,25 @@
             "name": "otp",
             "description": "Simple Laravel OTP generator and validator ",
             "url": "https://github.com/putheakhem/otp"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "rinn7e",
+    "name": "Moremi Vannak",
+    "url": "https://github.com/rinn7e",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8400953?u=8b07286613fd20500a411f3349ae15dd60db0deb&v=4",
+    "bio": "Enthusiastic Functional Programmer, specialized in Haskell, Typescript(fp-ts), Purescript, and Elm.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "cambodia-law-dataset",
+            "description": "Cambodia Law Dataset",
+            "url": "https://github.com/rinn7e/cambodia-law-dataset"
           }
         }
       ]
@@ -223,25 +242,6 @@
     }
   },
   {
-    "login": "MyKhode",
-    "name": "Ikhode Studio",
-    "url": "https://github.com/MyKhode",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4",
-    "bio": "do what you love, just try your best  🇰🇭 ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "Telegram-Chatbot",
-            "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
-            "url": "https://github.com/MyKhode/Telegram-Chatbot"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "mrrtmob",
     "name": "Tmob",
     "url": "https://github.com/mrrtmob",
@@ -255,6 +255,25 @@
             "name": "kiri-ocr",
             "description": "Kiri OCR is a lightweight, OCR library for English and Khmer documents.",
             "url": "https://github.com/mrrtmob/kiri-ocr"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "MyKhode",
+    "name": "Ikhode Studio",
+    "url": "https://github.com/MyKhode",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4",
+    "bio": "do what you love, just try your best  🇰🇭 ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "Telegram-Chatbot",
+            "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
+            "url": "https://github.com/MyKhode/Telegram-Chatbot"
           }
         }
       ]

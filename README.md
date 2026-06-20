@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 24
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Jun 17 2026 02:42:58 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Jun 20 2026 02:28:38 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -12,7 +12,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@DJ-Raven](https://github.com/DJ-Raven) | [❤️Sponsor](https://github.com/sponsors/DJ-Raven) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/58245926?v=4" alt="" width="40" /> | Java Developer |
+| <img src="https://avatars.githubusercontent.com/u/58245926?u=b206bddecbaa5a48a06ce725abddbb617c8ebf1b&v=4" alt="" width="40" /> | Java Developer |
 | [swing-modal-dialog](https://github.com/DJ-Raven/swing-modal-dialog) | Java Swing UI library custom with FlatLaf |
 
 
@@ -173,7 +173,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages: C/C++, ObjectivC, Swift, Java |
-| [VSPDriver](https://github.com/britus/VSPDriver) | Virtual Serial Port Driver for MacOS |
+| [MCPStudio_Releases](https://github.com/britus/MCPStudio_Releases) | EoF MCP Studio Releases |
 
 
 ## [EM DiYA](https://github.com/emdiya)

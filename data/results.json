@@ -4,7 +4,7 @@
     "name": "Raven Laing",
     "url": "https://github.com/DJ-Raven",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58245926?v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58245926?u=b206bddecbaa5a48a06ce725abddbb617c8ebf1b&v=4",
     "bio": "Java Developer",
     "pinnedItems": {
       "edges": [
@@ -358,9 +358,9 @@
       "edges": [
         {
           "node": {
-            "name": "VSPDriver",
-            "description": "Virtual Serial Port Driver for MacOS",
-            "url": "https://github.com/britus/VSPDriver"
+            "name": "MCPStudio_Releases",
+            "description": "EoF MCP Studio Releases",
+            "url": "https://github.com/britus/MCPStudio_Releases"
           }
         }
       ]

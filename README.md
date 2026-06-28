@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 24
+- Total: 25
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Jun 25 2026 02:13:45 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Jun 28 2026 02:31:56 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -38,6 +38,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/116934056?u=af25726c93adad9a09dee7751c5c1e710b7856bc&v=4" alt="" width="40" /> | 👋 Hi, I'm Ing Muyleang - DevOps Engineering research student @ISTAD - CS graduate from RUPP - Quantum Lab researcher @PKNU - M.S. AI Convergence (ongoing) |
 | [kubespray](https://github.com/MuyleangIng/kubespray) | <!-- no description --> |
+
+
+## [Yato](https://github.com/rin-yato)
+    
+| [@rin-yato](https://github.com/rin-yato) | [❤️Sponsor](https://github.com/sponsors/rin-yato) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/106462074?u=cccdcb4adac2f86650c6f4ca52ee34862fda9377&v=4" alt="" width="40" /> |  |
+| [checkitout](https://github.com/rin-yato/checkitout) | The payment service that you'll never need |
 
 
 ## [BAN Sothen](https://github.com/bsthen)

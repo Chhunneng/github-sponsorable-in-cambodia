@@ -68,6 +68,25 @@
     }
   },
   {
+    "login": "rin-yato",
+    "name": "Yato",
+    "url": "https://github.com/rin-yato",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106462074?u=cccdcb4adac2f86650c6f4ca52ee34862fda9377&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "checkitout",
+            "description": "The payment service that you'll never need",
+            "url": "https://github.com/rin-yato/checkitout"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "bsthen",
     "name": "BAN Sothen",
     "url": "https://github.com/bsthen",

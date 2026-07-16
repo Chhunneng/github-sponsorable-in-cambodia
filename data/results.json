@@ -98,25 +98,6 @@
     }
   },
   {
-    "login": "munyoudoum",
-    "name": null,
-    "url": "https://github.com/munyoudoum",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60089135?u=622506958fe0ccda18b648564f98b57e718b23cf&v=4",
-    "bio": "# Todo: search for a cool bio",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "facebook_events_scraper",
-            "description": "Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design",
-            "url": "https://github.com/munyoudoum/facebook_events_scraper"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "chantouchsek",
     "name": "Chantouch Sek",
     "url": "https://github.com/chantouchsek",
@@ -130,6 +111,25 @@
             "name": "validatorjs",
             "description": "The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js.",
             "url": "https://github.com/chantouchsek/validatorjs"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "munyoudoum",
+    "name": null,
+    "url": "https://github.com/munyoudoum",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60089135?u=622506958fe0ccda18b648564f98b57e718b23cf&v=4",
+    "bio": "# Todo: search for a cool bio",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "facebook_events_scraper",
+            "description": "Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design",
+            "url": "https://github.com/munyoudoum/facebook_events_scraper"
           }
         }
       ]

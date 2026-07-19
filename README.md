@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 25
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Jul 17 2026 01:46:05 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Jul 19 2026 01:43:42 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -181,7 +181,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages: C/C++, ObjectivC, Swift, Java |
-| [MCPStudio_Releases](https://github.com/britus/MCPStudio_Releases) | EoF MCP Studio Releases |
+| [MCPStudio](https://github.com/britus/MCPStudio) | EoF MCP Studio connect your macOS to multiple LLM providers with full MCP, Skills, Plugins, and Multi-Agent Workflow support. |
 
 
 ## [EM DiYA](https://github.com/emdiya)

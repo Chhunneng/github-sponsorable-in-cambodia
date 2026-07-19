@@ -377,9 +377,9 @@
       "edges": [
         {
           "node": {
-            "name": "MCPStudio_Releases",
-            "description": "EoF MCP Studio Releases",
-            "url": "https://github.com/britus/MCPStudio_Releases"
+            "name": "MCPStudio",
+            "description": "EoF MCP Studio connect your macOS to multiple LLM providers with full MCP, Skills, Plugins, and Multi-Agent Workflow support.",
+            "url": "https://github.com/britus/MCPStudio"
           }
         }
       ]

@@ -98,25 +98,6 @@
     }
   },
   {
-    "login": "chantouchsek",
-    "name": "Chantouch Sek",
-    "url": "https://github.com/chantouchsek",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4",
-    "bio": "I love coding.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "validatorjs",
-            "description": "The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js.",
-            "url": "https://github.com/chantouchsek/validatorjs"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "munyoudoum",
     "name": null,
     "url": "https://github.com/munyoudoum",
@@ -130,6 +111,25 @@
             "name": "facebook_events_scraper",
             "description": "Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design",
             "url": "https://github.com/munyoudoum/facebook_events_scraper"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "chantouchsek",
+    "name": "Chantouch Sek",
+    "url": "https://github.com/chantouchsek",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4",
+    "bio": "I love coding.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "validatorjs",
+            "description": "The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js.",
+            "url": "https://github.com/chantouchsek/validatorjs"
           }
         }
       ]

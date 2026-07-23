@@ -377,9 +377,9 @@
       "edges": [
         {
           "node": {
-            "name": "MCPStudio",
-            "description": "EoF MCP Studio connect your macOS to multiple LLM providers with full MCP, Skills, Plugins, and Multi-Agent Workflow support.",
-            "url": "https://github.com/britus/MCPStudio"
+            "name": "MCPStudio_ToolSDK",
+            "description": "Official SDK of the EoF MCP Studio App for macOS",
+            "url": "https://github.com/britus/MCPStudio_ToolSDK"
           }
         }
       ]

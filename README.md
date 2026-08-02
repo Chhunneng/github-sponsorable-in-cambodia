@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 25
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Jul 26 2026 01:49:22 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Aug 02 2026 01:48:38 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -76,7 +76,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@cbrunnkvist](https://github.com/cbrunnkvist) | [❤️Sponsor](https://github.com/sponsors/cbrunnkvist) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/34006?u=59512a983166532d22c59bcc7e9c5b196f807207&v=4" alt="" width="40" /> | Also does @CasualSecurityInc things and drive @OpenRai  |
+| <img src="https://avatars.githubusercontent.com/u/34006?u=59512a983166532d22c59bcc7e9c5b196f807207&v=4" alt="" width="40" /> | Also does @CasualSecurityInc things and drive @OpenRai   50% GPT, 20% Xiaomi Mimo, 30% Deepseek |
 | [NanoNymNault](https://github.com/cbrunnkvist/NanoNymNault) | Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym. |
 
 
@@ -124,7 +124,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/76139625?u=7ee74dcc6c63f61de29df9f8a41006fd761fa587&v=4" alt="" width="40" /> |  |
+| <img src="https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
 
 

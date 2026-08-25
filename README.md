@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 25
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat Aug 15 2026 00:38:20 GMT+0000 (Coordinated Universal Time)
+- Last update: Tue Aug 25 2026 00:38:52 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -88,20 +88,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
 
 
+## [pphat](https://github.com/pphatdev)
+    
+| [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=98073942283017c3fea726f5cb4e003a385211ee&v=4" alt="" width="40" /> | Build what I want & what I need 👀, I don't know how far I can go, Just keep going 🦥 |
+| [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
+
+
 ## [Moremi Vannak](https://github.com/rinn7e)
     
 | [@rinn7e](https://github.com/rinn7e) | [❤️Sponsor](https://github.com/sponsors/rinn7e) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/8400953?u=8b07286613fd20500a411f3349ae15dd60db0deb&v=4" alt="" width="40" /> | Enthusiastic Functional Programmer, specialized in Haskell, Typescript(fp-ts), Purescript, and Elm. |
 | [cambodia-law-dataset](https://github.com/rinn7e/cambodia-law-dataset) | Cambodia Law Dataset |
-
-
-## [pphat](https://github.com/pphatdev)
-    
-| [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65520537?u=4bb2d6f9f4d1f82a8de3c4e85a94c300866b819d&v=4" alt="" width="40" /> | Build what I want & what I need 👀, I don't know how far I can go, Just keep going 🦥 |
-| [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
 
 
 ## [Vathanak Sol](https://github.com/VathanakSol)

@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 24
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Sep 04 2026 02:02:10 GMT+0000 (Coordinated Universal Time)
+- Last update: Sun Sep 06 2026 01:53:54 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -112,20 +112,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [artistdb](https://github.com/nyt92org/artistdb) | An Open Database of SFW & NSFW artists |
 
 
-## [Tang Heng](https://github.com/tangheng05)
-    
-| [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-
 ## [Tmob](https://github.com/mrrtmob)
     
 | [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
 | [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
+
+
+## [Tang Heng](https://github.com/tangheng05)
+    
+| [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Ikhode Studio](https://github.com/MyKhode)

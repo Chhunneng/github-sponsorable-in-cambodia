@@ -422,5 +422,24 @@
     "pinnedItems": {
       "edges": []
     }
+  },
+  {
+    "login": "yarinnim",
+    "name": "Yarin NIM <នីម យ៉ារីន>",
+    "url": "https://github.com/yarinnim",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13675760?v=4",
+    "bio": "Head of Software Development | CTO | Senior Technical Manager | Senior Application Architecture and Design Manager | Software Solutions.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "dev-platform",
+            "description": "This the Platform for development, it is used for contributor that develops the NodeJS package and apply the built code in real-time with Dummy application.",
+            "url": "https://github.com/yarinnim/dev-platform"
+          }
+        }
+      ]
+    }
   }
 ]

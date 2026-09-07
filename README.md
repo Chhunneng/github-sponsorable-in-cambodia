@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 24
+- Total: 25
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Sep 06 2026 01:53:54 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Sep 07 2026 01:51:00 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -198,4 +198,12 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/87051743?u=852c5bf470157ea7df9ec13a82bb2e5384e15c78&v=4" alt="" width="40" /> | Hi |
 | <!-- no item --> | <!-- no description --> |
+
+
+## [Yarin NIM <នីម យ៉ារីន>](https://github.com/yarinnim)
+    
+| [@yarinnim](https://github.com/yarinnim) | [❤️Sponsor](https://github.com/sponsors/yarinnim) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/13675760?v=4" alt="" width="40" /> | Head of Software Development ｜ CTO ｜ Senior Technical Manager ｜ Senior Application Architecture and Design Manager ｜ Software Solutions. |
+| [dev-platform](https://github.com/yarinnim/dev-platform) | This the Platform for development, it is used for contributor that develops the NodeJS package and apply the built code in real-time with Dummy application. |
 

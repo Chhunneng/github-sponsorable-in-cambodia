@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 25
+- Total: 26
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Mon Sep 07 2026 01:51:00 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Sep 11 2026 02:01:51 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -104,20 +104,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [coffee-finder](https://github.com/VathanakSol/coffee-finder) | <!-- no description --> |
 
 
-## [Chamroeun Norin](https://github.com/NYT92)
-    
-| [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/53612429?u=94e650fa34a08a526c808da3b09458575f3ce915&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
-| [artistdb](https://github.com/nyt92org/artistdb) | An Open Database of SFW & NSFW artists |
-
-
 ## [Tmob](https://github.com/mrrtmob)
     
 | [@mrrtmob](https://github.com/mrrtmob) | [❤️Sponsor](https://github.com/sponsors/mrrtmob) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/71328239?u=7a3452f8c0eef7db4ce3d57f5f3bc9b3404317ef&v=4" alt="" width="40" /> | Working with Attention. It's all we need. |
 | [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
+
+
+## [Chamroeun Norin](https://github.com/NYT92)
+    
+| [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/53612429?u=94e650fa34a08a526c808da3b09458575f3ce915&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
+| [artistdb](https://github.com/nyt92org/artistdb) | An Open Database of SFW & NSFW artists |
 
 
 ## [Tang Heng](https://github.com/tangheng05)
@@ -136,20 +136,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
-## [Hangsia Hong](https://github.com/hangsiahong)
-    
-| [@hangsiahong](https://github.com/hangsiahong) | [❤️Sponsor](https://github.com/sponsors/hangsiahong) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4" alt="" width="40" /> | Life is like a soup and I'm a chopstick. |
-| [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
-
-
 ## [Kimheng HAK](https://github.com/hakkimheng)
     
 | [@hakkimheng](https://github.com/hakkimheng) | [❤️Sponsor](https://github.com/sponsors/hakkimheng) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/110073572?u=a21e843bc8800325740ff6e956d9639f08dc2884&v=4" alt="" width="40" /> |  |
 | [Blissful-Skin](https://github.com/hakkimheng/Blissful-Skin) | <!-- no description --> |
+
+
+## [Hangsia Hong](https://github.com/hangsiahong)
+    
+| [@hangsiahong](https://github.com/hangsiahong) | [❤️Sponsor](https://github.com/sponsors/hangsiahong) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4" alt="" width="40" /> | Life is like a soup and I'm a chopstick. |
+| [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
 
 
 ## [Hoeun Pichet](https://github.com/HoeunPichet)
@@ -176,6 +176,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [scrape](https://github.com/YStorm5/scrape) | Library to scrape data from a website. |
 
 
+## [Veasna TEP](https://github.com/veasnawt)
+    
+| [@veasnawt](https://github.com/veasnawt) | [❤️Sponsor](https://github.com/sponsors/veasnawt) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/51649688?u=a904d181bf07eff6930616070f1541701bccc57a&v=4" alt="" width="40" /> | JavaScript Developer |
+| [vicons](https://github.com/veasnawt/vicons) | A premium minimalist SVG icon library for React. |
+
+
 ## [EM DiYA](https://github.com/emdiya)
     
 | [@emdiya](https://github.com/emdiya) | [❤️Sponsor](https://github.com/sponsors/emdiya) |
@@ -184,20 +192,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
 
 
-## [makmach](https://github.com/JacklynConn)
-    
-| [@JacklynConn](https://github.com/JacklynConn) | [❤️Sponsor](https://github.com/sponsors/JacklynConn) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/148744079?u=b93e8a715f5e7bb2444360a877b460a27bd211ba&v=4" alt="" width="40" /> | ✨Mobile Developer🚀 ✨Education and training🚀 |
-| [api-komsan-app](https://github.com/JacklynConn/api-komsan-app) | <!-- no description --> |
-
-
 ## [Sophat Leat](https://github.com/L-Sophat)
     
 | [@L-Sophat](https://github.com/L-Sophat) | [❤️Sponsor](https://github.com/sponsors/L-Sophat) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/87051743?u=852c5bf470157ea7df9ec13a82bb2e5384e15c78&v=4" alt="" width="40" /> | Hi |
 | <!-- no item --> | <!-- no description --> |
+
+
+## [makmach](https://github.com/JacklynConn)
+    
+| [@JacklynConn](https://github.com/JacklynConn) | [❤️Sponsor](https://github.com/sponsors/JacklynConn) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/148744079?u=b93e8a715f5e7bb2444360a877b460a27bd211ba&v=4" alt="" width="40" /> | ✨Mobile Developer🚀 ✨Education and training🚀 |
+| [api-komsan-app](https://github.com/JacklynConn/api-komsan-app) | <!-- no description --> |
 
 
 ## [Yarin NIM <នីម យ៉ារីន>](https://github.com/yarinnim)

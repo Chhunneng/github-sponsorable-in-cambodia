@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 26
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Mon Sep 14 2026 02:20:28 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Sep 18 2026 02:09:18 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -84,7 +84,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65520537?u=98073942283017c3fea726f5cb4e003a385211ee&v=4" alt="" width="40" /> | Build what I want & what I need 👀, I don't know how far I can go, Just keep going 🦥 |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=98073942283017c3fea726f5cb4e003a385211ee&v=4" alt="" width="40" /> | I build what I need and greet something new.    |
 | [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
 
 
@@ -212,6 +212,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@yarinnim](https://github.com/yarinnim) | [❤️Sponsor](https://github.com/sponsors/yarinnim) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/13675760?v=4" alt="" width="40" /> | Head of Software Development ｜ CTO ｜ Senior Technical Manager ｜ Senior Application Architecture and Design Manager ｜ Software Solutions. |
-| [dev-platform](https://github.com/yarinnim/dev-platform) | This the Platform for development, it is used for contributor that develops the NodeJS package and apply the built code in real-time with Dummy application. |
+| <img src="https://avatars.githubusercontent.com/u/13675760?u=c907db9f238b2f3f442ffbfeebfc4963804ccd63&v=4" alt="" width="40" /> | Head of Software Development ｜ CTO ｜ Senior Technical Manager ｜ Senior Application Architecture and Design Manager ｜ Software Solutions. |
+| [knexify](https://github.com/yarinnim/knexify) | A new layer over the KnexJS, or can say it's a set of feature implemented over the knexJS. It has database pool connection to read/write replication, with new functions such as Search, Pagiation, Helper Actions, database fieldname case conversion, and streaming CSV Export. |
 

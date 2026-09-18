@@ -168,7 +168,7 @@
     "url": "https://github.com/pphatdev",
     "location": "Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=98073942283017c3fea726f5cb4e003a385211ee&v=4",
-    "bio": "Build what I want & what I need 👀, I don't know how far I can go, Just keep going 🦥",
+    "bio": "I build what I need and greet something new.   ",
     "pinnedItems": {
       "edges": [
         {
@@ -447,15 +447,15 @@
     "name": "Yarin NIM <នីម យ៉ារីន>",
     "url": "https://github.com/yarinnim",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13675760?v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13675760?u=c907db9f238b2f3f442ffbfeebfc4963804ccd63&v=4",
     "bio": "Head of Software Development | CTO | Senior Technical Manager | Senior Application Architecture and Design Manager | Software Solutions.",
     "pinnedItems": {
       "edges": [
         {
           "node": {
-            "name": "dev-platform",
-            "description": "This the Platform for development, it is used for contributor that develops the NodeJS package and apply the built code in real-time with Dummy application.",
-            "url": "https://github.com/yarinnim/dev-platform"
+            "name": "knexify",
+            "description": "A new layer over the KnexJS, or can say it's a set of feature implemented over the knexJS. It has database pool connection to read/write replication, with new functions such as Search, Pagiation, Helper Actions, database fieldname case conversion, and streaming CSV Export.",
+            "url": "https://github.com/yarinnim/knexify"
           }
         }
       ]

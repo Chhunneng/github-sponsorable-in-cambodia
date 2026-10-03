@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 26
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Sep 23 2026 02:23:42 GMT+0000 (Coordinated Universal Time)
+- Last update: Sat Oct 03 2026 02:53:28 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -48,6 +48,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
+## [Chantouch Sek](https://github.com/chantouchsek)
+    
+| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
+| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
+
+
 ## [Conny Brunnkvist](https://github.com/cbrunnkvist)
     
 | [@cbrunnkvist](https://github.com/cbrunnkvist) | [❤️Sponsor](https://github.com/sponsors/cbrunnkvist) |
@@ -62,14 +70,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/60089135?u=622506958fe0ccda18b648564f98b57e718b23cf&v=4" alt="" width="40" /> | # Todo: search for a cool bio |
 | [facebook_events_scraper](https://github.com/munyoudoum/facebook_events_scraper) | Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design |
-
-
-## [Chantouch Sek](https://github.com/chantouchsek)
-    
-| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
-| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
 
 
 ## [Khem Puthea](https://github.com/putheakhem)
@@ -164,7 +164,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4" alt="" width="40" /> | Major languages: C/C++, ObjectivC, Swift, Java |
+| <img src="https://avatars.githubusercontent.com/u/2138234?u=5e251a66141fcb47a5d4efa9b2f7566471952464&v=4" alt="" width="40" /> | Major languages: C/C++, ObjectivC, Swift, Java |
 | [MCPStudio_ToolSDK](https://github.com/britus/MCPStudio_ToolSDK) | Official SDK of the EoF MCP Studio App for macOS |
 
 

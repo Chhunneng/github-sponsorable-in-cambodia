@@ -87,6 +87,25 @@
     }
   },
   {
+    "login": "chantouchsek",
+    "name": "Chantouch Sek",
+    "url": "https://github.com/chantouchsek",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4",
+    "bio": "I love coding.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "validatorjs",
+            "description": "The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js.",
+            "url": "https://github.com/chantouchsek/validatorjs"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "cbrunnkvist",
     "name": "Conny Brunnkvist",
     "url": "https://github.com/cbrunnkvist",
@@ -119,25 +138,6 @@
             "name": "facebook_events_scraper",
             "description": "Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design",
             "url": "https://github.com/munyoudoum/facebook_events_scraper"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "chantouchsek",
-    "name": "Chantouch Sek",
-    "url": "https://github.com/chantouchsek",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4",
-    "bio": "I love coding.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "validatorjs",
-            "description": "The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js.",
-            "url": "https://github.com/chantouchsek/validatorjs"
           }
         }
       ]
@@ -341,7 +341,7 @@
     "name": "EoF Software Lab",
     "url": "https://github.com/britus",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2138234?u=85a370460aed1aab41477f5adcdd56f704ac8933&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2138234?u=5e251a66141fcb47a5d4efa9b2f7566471952464&v=4",
     "bio": "Major languages: C/C++, ObjectivC, Swift, Java",
     "pinnedItems": {
       "edges": [

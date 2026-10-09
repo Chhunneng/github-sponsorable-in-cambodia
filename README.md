@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 26
+- Total: 27
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Oct 06 2026 03:49:55 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Oct 09 2026 03:38:08 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -152,6 +152,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
 
 
+## [Chansocheat Sok](https://github.com/cheat2001)
+    
+| [@cheat2001](https://github.com/cheat2001) | [❤️Sponsor](https://github.com/sponsors/cheat2001) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/83935278?u=62bbc2918f4d4450c999e81467f9828afeb453ed&v=4" alt="" width="40" /> | Learning, Calm down, Growing, Coding, Improving, Be humble. |
+| [portfolio](https://github.com/cheat2001/portfolio) | <!-- no description --> |
+
+
 ## [Hoeun Pichet](https://github.com/HoeunPichet)
     
 | [@HoeunPichet](https://github.com/HoeunPichet) | [❤️Sponsor](https://github.com/sponsors/HoeunPichet) |
@@ -176,20 +184,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [scrape](https://github.com/YStorm5/scrape) | Library to scrape data from a website. |
 
 
-## [Veasna TEP](https://github.com/veasnawt)
-    
-| [@veasnawt](https://github.com/veasnawt) | [❤️Sponsor](https://github.com/sponsors/veasnawt) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/51649688?u=a904d181bf07eff6930616070f1541701bccc57a&v=4" alt="" width="40" /> | JavaScript Developer |
-| [vicons](https://github.com/veasnawt/vicons) | A premium minimalist SVG icon library for React. |
-
-
 ## [EM DiYA](https://github.com/emdiya)
     
 | [@emdiya](https://github.com/emdiya) | [❤️Sponsor](https://github.com/sponsors/emdiya) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/81983189?u=4c83fd593759628c5985a9e4ba113961dfaededb&v=4" alt="" width="40" /> | Senior Software Developer (Mobile, Backend, Frontend) |
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
+
+
+## [Veasna TEP](https://github.com/veasnawt)
+    
+| [@veasnawt](https://github.com/veasnawt) | [❤️Sponsor](https://github.com/sponsors/veasnawt) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/51649688?u=a904d181bf07eff6930616070f1541701bccc57a&v=4" alt="" width="40" /> | JavaScript Developer |
+| [vicons](https://github.com/veasnawt/vicons) | A premium minimalist SVG icon library for React. |
 
 
 ## [makmach](https://github.com/JacklynConn)

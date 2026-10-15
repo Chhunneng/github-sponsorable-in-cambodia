@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 27
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Oct 13 2026 04:30:50 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Oct 15 2026 02:20:02 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -112,20 +112,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
 
 
-## [Chamroeun Norin](https://github.com/NYT92)
-    
-| [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/53612429?u=94e650fa34a08a526c808da3b09458575f3ce915&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
-| [artistdb](https://github.com/nyt92org/artistdb) | An Open Database of SFW & NSFW artists |
-
-
 ## [Tang Heng](https://github.com/tangheng05)
     
 | [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4" alt="" width="40" /> |  |
 | <!-- no item --> | <!-- no description --> |
+
+
+## [Chamroeun Norin](https://github.com/NYT92)
+    
+| [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/53612429?u=94e650fa34a08a526c808da3b09458575f3ce915&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
+| [artistdb](https://github.com/nyt92org/artistdb) | An Open Database of SFW & NSFW artists |
 
 
 ## [Ikhode Studio](https://github.com/MyKhode)

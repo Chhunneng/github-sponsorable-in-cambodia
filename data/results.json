@@ -239,6 +239,17 @@
     }
   },
   {
+    "login": "tangheng05",
+    "name": "Tang Heng",
+    "url": "https://github.com/tangheng05",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
+    }
+  },
+  {
     "login": "NYT92",
     "name": "Chamroeun Norin",
     "url": "https://github.com/NYT92",
@@ -255,17 +266,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "login": "tangheng05",
-    "name": "Tang Heng",
-    "url": "https://github.com/tangheng05",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": []
     }
   },
   {

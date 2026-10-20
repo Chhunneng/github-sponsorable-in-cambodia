@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 27
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat Oct 17 2026 02:05:46 GMT+0000 (Coordinated Universal Time)
+- Last update: Tue Oct 20 2026 02:35:32 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -48,20 +48,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
-## [Chantouch Sek](https://github.com/chantouchsek)
-    
-| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
-| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
-
-
 ## [Conny Brunnkvist](https://github.com/cbrunnkvist)
     
 | [@cbrunnkvist](https://github.com/cbrunnkvist) | [❤️Sponsor](https://github.com/sponsors/cbrunnkvist) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/34006?u=59512a983166532d22c59bcc7e9c5b196f807207&v=4" alt="" width="40" /> | Also does @CasualSecurityInc things and drive @OpenRai   50% GPT, 20% Xiaomi Mimo, 30% Deepseek |
 | [NanoNymNault](https://github.com/cbrunnkvist/NanoNymNault) | Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym. |
+
+
+## [Chantouch Sek](https://github.com/chantouchsek)
+    
+| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
+| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
 
 
 ## [munyoudoum](https://github.com/munyoudoum)
@@ -128,12 +128,12 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [artistdb](https://github.com/nyt92org/artistdb) | An Open Database of SFW & NSFW artists |
 
 
-## [Ikhode Studio](https://github.com/MyKhode)
+## [Ikhode Technology](https://github.com/ikhode-technology)
     
-| [@MyKhode](https://github.com/MyKhode) | [❤️Sponsor](https://github.com/sponsors/MyKhode) |
+| [@ikhode-technology](https://github.com/ikhode-technology) | [❤️Sponsor](https://github.com/sponsors/ikhode-technology) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4" alt="" width="40" /> | do what you love, just try your best  🇰🇭  |
-| [Telegram-Chatbot](https://github.com/MyKhode/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
+| [Telegram-Chatbot](https://github.com/ikhode-technology/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
 ## [Kimheng HAK](https://github.com/hakkimheng)

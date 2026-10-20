@@ -87,25 +87,6 @@
     }
   },
   {
-    "login": "chantouchsek",
-    "name": "Chantouch Sek",
-    "url": "https://github.com/chantouchsek",
-    "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4",
-    "bio": "I love coding.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "validatorjs",
-            "description": "The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js.",
-            "url": "https://github.com/chantouchsek/validatorjs"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "cbrunnkvist",
     "name": "Conny Brunnkvist",
     "url": "https://github.com/cbrunnkvist",
@@ -119,6 +100,25 @@
             "name": "NanoNymNault",
             "description": "Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym.",
             "url": "https://github.com/cbrunnkvist/NanoNymNault"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "chantouchsek",
+    "name": "Chantouch Sek",
+    "url": "https://github.com/chantouchsek",
+    "location": "Phnom Penh, Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4",
+    "bio": "I love coding.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "validatorjs",
+            "description": "The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js.",
+            "url": "https://github.com/chantouchsek/validatorjs"
           }
         }
       ]
@@ -269,9 +269,9 @@
     }
   },
   {
-    "login": "MyKhode",
-    "name": "Ikhode Studio",
-    "url": "https://github.com/MyKhode",
+    "login": "ikhode-technology",
+    "name": "Ikhode Technology",
+    "url": "https://github.com/ikhode-technology",
     "location": "Cambodia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132768132?u=84223a5cd7c79c91fc317a41de3d6274b171d96d&v=4",
     "bio": "do what you love, just try your best  🇰🇭 ",
@@ -281,7 +281,7 @@
           "node": {
             "name": "Telegram-Chatbot",
             "description": "Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK",
-            "url": "https://github.com/MyKhode/Telegram-Chatbot"
+            "url": "https://github.com/ikhode-technology/Telegram-Chatbot"
           }
         }
       ]

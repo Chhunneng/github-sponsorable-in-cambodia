@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 27
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Oct 20 2026 02:35:32 GMT+0000 (Coordinated Universal Time)
+- Last update: Tue Oct 27 2026 02:52:51 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -44,8 +44,8 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@bsthen](https://github.com/bsthen) | [❤️Sponsor](https://github.com/sponsors/bsthen) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
+| <img src="https://avatars.githubusercontent.com/u/67461012?u=7af35d5403e360b21e8ab20d63082140e636597f&v=4" alt="" width="40" /> |  |
+| [bakong-khqr](https://github.com/bsthen/bakong-khqr) | A Python package for generating payment transactions compliant with the Bakong KHQR standard. |
 
 
 ## [Conny Brunnkvist](https://github.com/cbrunnkvist)
@@ -112,20 +112,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [kiri-ocr](https://github.com/mrrtmob/kiri-ocr) | Kiri OCR is a lightweight, OCR library for English and Khmer documents. |
 
 
-## [Tang Heng](https://github.com/tangheng05)
-    
-| [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
-
-
 ## [Chamroeun Norin](https://github.com/NYT92)
     
 | [@NYT92](https://github.com/NYT92) | [❤️Sponsor](https://github.com/sponsors/NYT92) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/53612429?u=94e650fa34a08a526c808da3b09458575f3ce915&v=4" alt="" width="40" /> | stupid cambodian developer at the age of 20... |
 | [artistdb](https://github.com/nyt92org/artistdb) | An Open Database of SFW & NSFW artists |
+
+
+## [Tang Heng](https://github.com/tangheng05)
+    
+| [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Ikhode Technology](https://github.com/ikhode-technology)
@@ -196,7 +196,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@veasnawt](https://github.com/veasnawt) | [❤️Sponsor](https://github.com/sponsors/veasnawt) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/51649688?u=a904d181bf07eff6930616070f1541701bccc57a&v=4" alt="" width="40" /> | JavaScript Developer |
+| <img src="https://avatars.githubusercontent.com/u/51649688?u=a0e4d8c035cc7ea07cc22381a24c79b6e091229b&v=4" alt="" width="40" /> | Software Developer |
 | [vicons](https://github.com/veasnawt/vicons) | A premium minimalist SVG icon library for React. |
 
 

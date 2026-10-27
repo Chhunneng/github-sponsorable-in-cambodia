@@ -80,10 +80,18 @@
     "name": "BAN Sothen",
     "url": "https://github.com/bsthen",
     "location": "Phnom Penh, Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=766bcaaa2a1b79113a2dddf7fd0ae5434aa1aebf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67461012?u=7af35d5403e360b21e8ab20d63082140e636597f&v=4",
     "bio": "",
     "pinnedItems": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "name": "bakong-khqr",
+            "description": "A Python package for generating payment transactions compliant with the Bakong KHQR standard.",
+            "url": "https://github.com/bsthen/bakong-khqr"
+          }
+        }
+      ]
     }
   },
   {
@@ -239,17 +247,6 @@
     }
   },
   {
-    "login": "tangheng05",
-    "name": "Tang Heng",
-    "url": "https://github.com/tangheng05",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4",
-    "bio": "",
-    "pinnedItems": {
-      "edges": []
-    }
-  },
-  {
     "login": "NYT92",
     "name": "Chamroeun Norin",
     "url": "https://github.com/NYT92",
@@ -266,6 +263,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "tangheng05",
+    "name": "Tang Heng",
+    "url": "https://github.com/tangheng05",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {
@@ -417,8 +425,8 @@
     "name": "Veasna TEP",
     "url": "https://github.com/veasnawt",
     "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51649688?u=a904d181bf07eff6930616070f1541701bccc57a&v=4",
-    "bio": "JavaScript Developer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51649688?u=a0e4d8c035cc7ea07cc22381a24c79b6e091229b&v=4",
+    "bio": "Software Developer",
     "pinnedItems": {
       "edges": [
         {

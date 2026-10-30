@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 27
+- Total: 28
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Oct 28 2026 03:00:47 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Oct 30 2026 03:30:10 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -72,20 +72,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [facebook_events_scraper](https://github.com/munyoudoum/facebook_events_scraper) | Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design |
 
 
-## [Khem Puthea](https://github.com/putheakhem)
-    
-| [@putheakhem](https://github.com/putheakhem) | [❤️Sponsor](https://github.com/sponsors/putheakhem) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/8064772?u=a243690fa6d1ddacc2a4bed6554bcb686085d152&v=4" alt="" width="40" /> | AI & DevOps |
-| [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
-
-
 ## [pphat](https://github.com/pphatdev)
     
 | [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/65520537?u=98073942283017c3fea726f5cb4e003a385211ee&v=4" alt="" width="40" /> | I build what I need and greet something new.    |
 | [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
+
+
+## [Khem Puthea](https://github.com/putheakhem)
+    
+| [@putheakhem](https://github.com/putheakhem) | [❤️Sponsor](https://github.com/sponsors/putheakhem) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/8064772?u=a243690fa6d1ddacc2a4bed6554bcb686085d152&v=4" alt="" width="40" /> | AI & DevOps |
+| [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
 
 
 ## [Moremi Vannak](https://github.com/rinn7e)
@@ -184,6 +184,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [scrape](https://github.com/YStorm5/scrape) | Library to scrape data from a website. |
 
 
+## [Veasna TEP](https://github.com/veasnawt)
+    
+| [@veasnawt](https://github.com/veasnawt) | [❤️Sponsor](https://github.com/sponsors/veasnawt) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/51649688?u=a0e4d8c035cc7ea07cc22381a24c79b6e091229b&v=4" alt="" width="40" /> | Software Developer |
+| [vicons](https://github.com/veasnawt/vicons) | A premium minimalist SVG icon library for React. |
+
+
 ## [EM DiYA](https://github.com/emdiya)
     
 | [@emdiya](https://github.com/emdiya) | [❤️Sponsor](https://github.com/sponsors/emdiya) |
@@ -192,12 +200,12 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
 
 
-## [Veasna TEP](https://github.com/veasnawt)
+## [Songhai Yeanlang](https://github.com/songhai-yeanlang)
     
-| [@veasnawt](https://github.com/veasnawt) | [❤️Sponsor](https://github.com/sponsors/veasnawt) |
+| [@songhai-yeanlang](https://github.com/songhai-yeanlang) | [❤️Sponsor](https://github.com/sponsors/songhai-yeanlang) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/51649688?u=a0e4d8c035cc7ea07cc22381a24c79b6e091229b&v=4" alt="" width="40" /> | Software Developer |
-| [vicons](https://github.com/veasnawt/vicons) | A premium minimalist SVG icon library for React. |
+| <img src="https://avatars.githubusercontent.com/u/178141315?u=6c4bc7f8475b2833ee4aa1b78ce3cc9d1a7df753&v=4" alt="" width="40" /> | Junior Web Developer ｜ Vue.js, Express.js & MySQL |
+| [POS-system-Cafe--Backend](https://github.com/songhai-yeanlang/POS-system-Cafe--Backend) | In development... |
 
 
 ## [makmach](https://github.com/JacklynConn)

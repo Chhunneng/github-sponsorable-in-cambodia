@@ -440,25 +440,6 @@
     }
   },
   {
-    "login": "songhai-yeanlang",
-    "name": "Songhai Yeanlang",
-    "url": "https://github.com/songhai-yeanlang",
-    "location": "Phnom Penh, Cambodia.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178141315?u=6c4bc7f8475b2833ee4aa1b78ce3cc9d1a7df753&v=4",
-    "bio": "Junior Web Developer | Vue.js, Express.js & MySQL",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "POS-system-Cafe--Backend",
-            "description": "In development...",
-            "url": "https://github.com/songhai-yeanlang/POS-system-Cafe--Backend"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "JacklynConn",
     "name": "makmach",
     "url": "https://github.com/JacklynConn",
@@ -475,6 +456,17 @@
           }
         }
       ]
+    }
+  },
+  {
+    "login": "yoouTaro",
+    "name": "youtaro",
+    "url": "https://github.com/yoouTaro",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63106609?u=234e60dbef5ec8b2b999d5ddba0e223d6bdb70e0&v=4",
+    "bio": "",
+    "pinnedItems": {
+      "edges": []
     }
   },
   {

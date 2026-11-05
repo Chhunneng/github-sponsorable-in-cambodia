@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 28
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sat Oct 31 2026 03:14:37 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Nov 05 2026 04:12:21 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -200,20 +200,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
 
 
-## [Songhai Yeanlang](https://github.com/songhai-yeanlang)
-    
-| [@songhai-yeanlang](https://github.com/songhai-yeanlang) | [❤️Sponsor](https://github.com/sponsors/songhai-yeanlang) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/178141315?u=6c4bc7f8475b2833ee4aa1b78ce3cc9d1a7df753&v=4" alt="" width="40" /> | Junior Web Developer ｜ Vue.js, Express.js & MySQL |
-| [POS-system-Cafe--Backend](https://github.com/songhai-yeanlang/POS-system-Cafe--Backend) | In development... |
-
-
 ## [makmach](https://github.com/JacklynConn)
     
 | [@JacklynConn](https://github.com/JacklynConn) | [❤️Sponsor](https://github.com/sponsors/JacklynConn) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/148744079?u=b93e8a715f5e7bb2444360a877b460a27bd211ba&v=4" alt="" width="40" /> | ✨Mobile Developer🚀 ✨Education and training🚀 |
 | [api-komsan-app](https://github.com/JacklynConn/api-komsan-app) | <!-- no description --> |
+
+
+## [youtaro](https://github.com/yoouTaro)
+    
+| [@yoouTaro](https://github.com/yoouTaro) | [❤️Sponsor](https://github.com/sponsors/yoouTaro) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/63106609?u=234e60dbef5ec8b2b999d5ddba0e223d6bdb70e0&v=4" alt="" width="40" /> |  |
+| <!-- no item --> | <!-- no description --> |
 
 
 ## [Sophat Leat](https://github.com/L-Sophat)

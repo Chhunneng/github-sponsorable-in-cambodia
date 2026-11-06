@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 28
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Nov 05 2026 04:12:21 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Nov 06 2026 04:09:59 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -28,7 +28,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
     
 | [@MuyleangIng](https://github.com/MuyleangIng) | [❤️Sponsor](https://github.com/sponsors/MuyleangIng) |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/116934056?u=af25726c93adad9a09dee7751c5c1e710b7856bc&v=4" alt="" width="40" /> | 👋 Hi, I'm Ing Muyleang - DevOps Engineering research student @ISTAD - CS graduate from RUPP - Quantum Lab researcher @PKNU - M.S. AI Convergence (ongoing) |
+| <img src="https://avatars.githubusercontent.com/u/116934056?u=af25726c93adad9a09dee7751c5c1e710b7856bc&v=4" alt="" width="40" /> | DevOps & AI Engineer ｜ Quantum Computing Researcher |
 | [kubespray](https://github.com/MuyleangIng/kubespray) | <!-- no description --> |
 
 

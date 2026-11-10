@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 28
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Sun Nov 08 2026 03:19:33 GMT+0000 (Coordinated Universal Time)
+- Last update: Tue Nov 10 2026 05:11:24 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -136,20 +136,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [Telegram-Chatbot](https://github.com/ikhode-technology/Telegram-Chatbot) | Khmer Telegram Ai Chatbot Using NN Model+KhmerNLTK |
 
 
-## [Kimheng HAK](https://github.com/hakkimheng)
-    
-| [@hakkimheng](https://github.com/hakkimheng) | [❤️Sponsor](https://github.com/sponsors/hakkimheng) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/110073572?u=a21e843bc8800325740ff6e956d9639f08dc2884&v=4" alt="" width="40" /> |  |
-| [Blissful-Skin](https://github.com/hakkimheng/Blissful-Skin) | <!-- no description --> |
-
-
 ## [Hangsia Hong](https://github.com/hangsiahong)
     
 | [@hangsiahong](https://github.com/hangsiahong) | [❤️Sponsor](https://github.com/sponsors/hangsiahong) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/44630728?u=06ca4af2fe0e05b5d652b722761ffbe0acec97b5&v=4" alt="" width="40" /> | Life is like a soup and I'm a chopstick. |
 | [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
+
+
+## [Kimheng HAK](https://github.com/hakkimheng)
+    
+| [@hakkimheng](https://github.com/hakkimheng) | [❤️Sponsor](https://github.com/sponsors/hakkimheng) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/110073572?u=a21e843bc8800325740ff6e956d9639f08dc2884&v=4" alt="" width="40" /> |  |
+| [Blissful-Skin](https://github.com/hakkimheng/Blissful-Skin) | <!-- no description --> |
 
 
 ## [Chansocheat Sok](https://github.com/cheat2001)

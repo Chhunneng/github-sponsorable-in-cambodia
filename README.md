@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 28
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Nov 10 2026 05:11:24 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Nov 12 2026 04:52:42 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -144,20 +144,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [dotfile](https://github.com/hangsiahong/dotfile) | All of my configuration |
 
 
-## [Kimheng HAK](https://github.com/hakkimheng)
-    
-| [@hakkimheng](https://github.com/hakkimheng) | [❤️Sponsor](https://github.com/sponsors/hakkimheng) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/110073572?u=a21e843bc8800325740ff6e956d9639f08dc2884&v=4" alt="" width="40" /> |  |
-| [Blissful-Skin](https://github.com/hakkimheng/Blissful-Skin) | <!-- no description --> |
-
-
 ## [Chansocheat Sok](https://github.com/cheat2001)
     
 | [@cheat2001](https://github.com/cheat2001) | [❤️Sponsor](https://github.com/sponsors/cheat2001) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/83935278?u=62bbc2918f4d4450c999e81467f9828afeb453ed&v=4" alt="" width="40" /> | Learning, Calm down, Growing, Coding, Improving, Be humble. |
 | [portfolio](https://github.com/cheat2001/portfolio) | <!-- no description --> |
+
+
+## [Kimheng HAK](https://github.com/hakkimheng)
+    
+| [@hakkimheng](https://github.com/hakkimheng) | [❤️Sponsor](https://github.com/sponsors/hakkimheng) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/110073572?u=a21e843bc8800325740ff6e956d9639f08dc2884&v=4" alt="" width="40" /> |  |
+| [Blissful-Skin](https://github.com/hakkimheng/Blissful-Skin) | <!-- no description --> |
 
 
 ## [Hoeun Pichet](https://github.com/HoeunPichet)
@@ -173,7 +173,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/2138234?u=5e251a66141fcb47a5d4efa9b2f7566471952464&v=4" alt="" width="40" /> | Major languages: C/C++, ObjectivC, Swift, Java |
-| [MCPStudio_ToolSDK](https://github.com/britus/MCPStudio_ToolSDK) | Official SDK of the EoF MCP Studio App for macOS |
+| [DJILUTStudio](https://github.com/britus/DJILUTStudio) | Transform DJI drone or action videos into high-quality clips with matching camera LUTs and creative looks. Easily grade and export directly on your Mac. |
 
 
 ## [Panha](https://github.com/YStorm5)
@@ -200,14 +200,6 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [goroute_trainning](https://github.com/emdiya/goroute_trainning) | <!-- no description --> |
 
 
-## [makmach](https://github.com/JacklynConn)
-    
-| [@JacklynConn](https://github.com/JacklynConn) | [❤️Sponsor](https://github.com/sponsors/JacklynConn) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/148744079?u=b93e8a715f5e7bb2444360a877b460a27bd211ba&v=4" alt="" width="40" /> | ✨Mobile Developer🚀 ✨Education and training🚀 |
-| [api-komsan-app](https://github.com/JacklynConn/api-komsan-app) | <!-- no description --> |
-
-
 ## [youtaro](https://github.com/yoouTaro)
     
 | [@yoouTaro](https://github.com/yoouTaro) | [❤️Sponsor](https://github.com/sponsors/yoouTaro) |
@@ -222,6 +214,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/87051743?u=852c5bf470157ea7df9ec13a82bb2e5384e15c78&v=4" alt="" width="40" /> | Hi |
 | <!-- no item --> | <!-- no description --> |
+
+
+## [makmach](https://github.com/JacklynConn)
+    
+| [@JacklynConn](https://github.com/JacklynConn) | [❤️Sponsor](https://github.com/sponsors/JacklynConn) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/148744079?u=b93e8a715f5e7bb2444360a877b460a27bd211ba&v=4" alt="" width="40" /> | ✨Mobile Developer🚀 ✨Education and training🚀 |
+| [api-komsan-app](https://github.com/JacklynConn/api-komsan-app) | <!-- no description --> |
 
 
 ## [Yarin NIM <នីម យ៉ារីន>](https://github.com/yarinnim)

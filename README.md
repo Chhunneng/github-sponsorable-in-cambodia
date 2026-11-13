@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 28
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Nov 12 2026 04:52:42 GMT+0000 (Coordinated Universal Time)
+- Last update: Fri Nov 13 2026 04:03:20 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -125,7 +125,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@tangheng05](https://github.com/tangheng05) | [❤️Sponsor](https://github.com/sponsors/tangheng05) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/76139625?u=215c9ca58b1827526d23c012a1e8a382b026bd9c&v=4" alt="" width="40" /> |  |
-| <!-- no item --> | <!-- no description --> |
+| [khqr-rs](https://github.com/tangheng05/khqr-rs) | Rust implementation of KHQR, Cambodia's Bakong payment QR standard |
 
 
 ## [Ikhode Technology](https://github.com/ikhode-technology)

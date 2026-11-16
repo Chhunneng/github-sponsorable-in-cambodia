@@ -459,6 +459,25 @@
     }
   },
   {
+    "login": "yarinnim",
+    "name": "Yarin NIM <នីម យ៉ារីន>",
+    "url": "https://github.com/yarinnim",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13675760?u=c907db9f238b2f3f442ffbfeebfc4963804ccd63&v=4",
+    "bio": "Head of Software Development | CTO | Senior Technical Manager | Senior Application Architecture and Design Manager | Software Solutions.",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "knexify",
+            "description": "A new layer over the KnexJS, or can say it's a set of feature implemented over the knexJS. It has database pool connection to read/write replication, with new functions such as Search, Pagiation, Helper Actions, database fieldname case conversion, and streaming CSV Export.",
+            "url": "https://github.com/yarinnim/knexify"
+          }
+        }
+      ]
+    }
+  },
+  {
     "login": "L-Sophat",
     "name": "Sophat Leat",
     "url": "https://github.com/L-Sophat",
@@ -483,25 +502,6 @@
             "name": "api-komsan-app",
             "description": null,
             "url": "https://github.com/JacklynConn/api-komsan-app"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "login": "yarinnim",
-    "name": "Yarin NIM <នីម យ៉ារីន>",
-    "url": "https://github.com/yarinnim",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13675760?u=c907db9f238b2f3f442ffbfeebfc4963804ccd63&v=4",
-    "bio": "Head of Software Development | CTO | Senior Technical Manager | Senior Application Architecture and Design Manager | Software Solutions.",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "knexify",
-            "description": "A new layer over the KnexJS, or can say it's a set of feature implemented over the knexJS. It has database pool connection to read/write replication, with new functions such as Search, Pagiation, Helper Actions, database fieldname case conversion, and streaming CSV Export.",
-            "url": "https://github.com/yarinnim/knexify"
           }
         }
       ]

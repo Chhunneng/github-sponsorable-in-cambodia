@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 28
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Fri Nov 13 2026 04:03:20 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Nov 16 2026 03:47:49 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -208,6 +208,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | <!-- no item --> | <!-- no description --> |
 
 
+## [Yarin NIM <នីម យ៉ារីន>](https://github.com/yarinnim)
+    
+| [@yarinnim](https://github.com/yarinnim) | [❤️Sponsor](https://github.com/sponsors/yarinnim) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/13675760?u=c907db9f238b2f3f442ffbfeebfc4963804ccd63&v=4" alt="" width="40" /> | Head of Software Development ｜ CTO ｜ Senior Technical Manager ｜ Senior Application Architecture and Design Manager ｜ Software Solutions. |
+| [knexify](https://github.com/yarinnim/knexify) | A new layer over the KnexJS, or can say it's a set of feature implemented over the knexJS. It has database pool connection to read/write replication, with new functions such as Search, Pagiation, Helper Actions, database fieldname case conversion, and streaming CSV Export. |
+
+
 ## [Sophat Leat](https://github.com/L-Sophat)
     
 | [@L-Sophat](https://github.com/L-Sophat) | [❤️Sponsor](https://github.com/sponsors/L-Sophat) |
@@ -222,12 +230,4 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/148744079?u=b93e8a715f5e7bb2444360a877b460a27bd211ba&v=4" alt="" width="40" /> | ✨Mobile Developer🚀 ✨Education and training🚀 |
 | [api-komsan-app](https://github.com/JacklynConn/api-komsan-app) | <!-- no description --> |
-
-
-## [Yarin NIM <នីម យ៉ារីន>](https://github.com/yarinnim)
-    
-| [@yarinnim](https://github.com/yarinnim) | [❤️Sponsor](https://github.com/sponsors/yarinnim) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/13675760?u=c907db9f238b2f3f442ffbfeebfc4963804ccd63&v=4" alt="" width="40" /> | Head of Software Development ｜ CTO ｜ Senior Technical Manager ｜ Senior Application Architecture and Design Manager ｜ Software Solutions. |
-| [knexify](https://github.com/yarinnim/knexify) | A new layer over the KnexJS, or can say it's a set of feature implemented over the knexJS. It has database pool connection to read/write replication, with new functions such as Search, Pagiation, Helper Actions, database fieldname case conversion, and streaming CSV Export. |
 

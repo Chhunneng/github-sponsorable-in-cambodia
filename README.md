@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 28
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Mon Nov 16 2026 03:47:49 GMT+0000 (Coordinated Universal Time)
+- Last update: Tue Nov 17 2026 05:41:46 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -56,20 +56,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [NanoNymNault](https://github.com/cbrunnkvist/NanoNymNault) | Proof-of-Concept fork of Nault (the Nano web wallet) integrating a lightweight Nostr client to enable private, unlinkable payments using a new type of reusable pseudonym address called a NanoNym. |
 
 
-## [Chantouch Sek](https://github.com/chantouchsek)
-    
-| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
-| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
-
-
 ## [munyoudoum](https://github.com/munyoudoum)
     
 | [@munyoudoum](https://github.com/munyoudoum) | [❤️Sponsor](https://github.com/sponsors/munyoudoum) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/60089135?u=622506958fe0ccda18b648564f98b57e718b23cf&v=4" alt="" width="40" /> | # Todo: search for a cool bio |
 | [facebook_events_scraper](https://github.com/munyoudoum/facebook_events_scraper) | Scrape Facebook page events(recurring and upcoming), and individual event on new Facebook design |
+
+
+## [Chantouch Sek](https://github.com/chantouchsek)
+    
+| [@chantouchsek](https://github.com/chantouchsek) | [❤️Sponsor](https://github.com/sponsors/chantouchsek) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/26726287?u=aa67d7ad5cbf70a6fedb670a83a3662524ffa417&v=4" alt="" width="40" /> | I love coding. |
+| [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
 
 
 ## [pphat](https://github.com/pphatdev)

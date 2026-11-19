@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 28
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Wed Nov 18 2026 05:06:03 GMT+0000 (Coordinated Universal Time)
+- Last update: Thu Nov 19 2026 05:00:01 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -72,20 +72,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [validatorjs](https://github.com/chantouchsek/validatorjs) | The validator-js library makes data validation in JavaScript very easy in both the browser and Node.js. |
 
 
-## [pphat](https://github.com/pphatdev)
-    
-| [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/65520537?u=98073942283017c3fea726f5cb4e003a385211ee&v=4" alt="" width="40" /> | I build what I need and greet something new.    |
-| [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
-
-
 ## [Khem Puthea](https://github.com/putheakhem)
     
 | [@putheakhem](https://github.com/putheakhem) | [❤️Sponsor](https://github.com/sponsors/putheakhem) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/8064772?u=a243690fa6d1ddacc2a4bed6554bcb686085d152&v=4" alt="" width="40" /> | AI & DevOps |
 | [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
+
+
+## [pphat](https://github.com/pphatdev)
+    
+| [@pphatdev](https://github.com/pphatdev) | [❤️Sponsor](https://github.com/sponsors/pphatdev) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/65520537?u=98073942283017c3fea726f5cb4e003a385211ee&v=4" alt="" width="40" /> | I build what I need and greet something new.    |
+| [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
 
 
 ## [Moremi Vannak](https://github.com/rinn7e)

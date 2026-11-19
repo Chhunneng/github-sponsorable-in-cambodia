@@ -152,25 +152,6 @@
     }
   },
   {
-    "login": "pphatdev",
-    "name": "pphat",
-    "url": "https://github.com/pphatdev",
-    "location": "Cambodia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=98073942283017c3fea726f5cb4e003a385211ee&v=4",
-    "bio": "I build what I need and greet something new.   ",
-    "pinnedItems": {
-      "edges": [
-        {
-          "node": {
-            "name": "github-stats",
-            "description": ":octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files!",
-            "url": "https://github.com/pphatdev/github-stats"
-          }
-        }
-      ]
-    }
-  },
-  {
     "login": "putheakhem",
     "name": "Khem Puthea",
     "url": "https://github.com/putheakhem",
@@ -184,6 +165,25 @@
             "name": "otp",
             "description": "Simple Laravel OTP generator and validator ",
             "url": "https://github.com/putheakhem/otp"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "pphatdev",
+    "name": "pphat",
+    "url": "https://github.com/pphatdev",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65520537?u=98073942283017c3fea726f5cb4e003a385211ee&v=4",
+    "bio": "I build what I need and greet something new.   ",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "github-stats",
+            "description": ":octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files!",
+            "url": "https://github.com/pphatdev/github-stats"
           }
         }
       ]

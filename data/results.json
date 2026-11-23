@@ -382,9 +382,9 @@
       "edges": [
         {
           "node": {
-            "name": "DJILUTStudio",
-            "description": "Transform DJI drone or action videos into high-quality clips with matching camera LUTs and creative looks. Easily grade and export directly on your Mac.",
-            "url": "https://github.com/britus/DJILUTStudio"
+            "name": "VSPDriver",
+            "description": "Virtual Serial Port Driver for macOS",
+            "url": "https://github.com/britus/VSPDriver"
           }
         }
       ]
@@ -404,6 +404,25 @@
             "name": "scrape",
             "description": "Library to scrape data from a website.",
             "url": "https://github.com/YStorm5/scrape"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "login": "kanharithsok",
+    "name": "ggwp",
+    "url": "https://github.com/kanharithsok",
+    "location": "Cambodia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/12556875?u=ef7b5cfee6b4948b05a8d193ad039430d670f3ef&v=4",
+    "bio": "¯\\_(ツ)_/¯",
+    "pinnedItems": {
+      "edges": [
+        {
+          "node": {
+            "name": "browser-deck",
+            "description": "BrowserDeck — multiple real browser sessions in one flexible workspace.",
+            "url": "https://github.com/kanharithsok/browser-deck"
           }
         }
       ]

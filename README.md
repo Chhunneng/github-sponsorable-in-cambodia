@@ -2,9 +2,9 @@
 
 This repository is a list of GitHub users who are living in Cambodia and are sponsor-able.
 
-- Total: 28
+- Total: 29
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Thu Nov 19 2026 05:00:01 GMT+0000 (Coordinated Universal Time)
+- Last update: Mon Nov 23 2026 04:43:35 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -173,7 +173,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [@britus](https://github.com/britus) | [❤️Sponsor](https://github.com/sponsors/britus) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/2138234?u=5e251a66141fcb47a5d4efa9b2f7566471952464&v=4" alt="" width="40" /> | Major languages: C/C++, ObjectivC, Swift, Java |
-| [DJILUTStudio](https://github.com/britus/DJILUTStudio) | Transform DJI drone or action videos into high-quality clips with matching camera LUTs and creative looks. Easily grade and export directly on your Mac. |
+| [VSPDriver](https://github.com/britus/VSPDriver) | Virtual Serial Port Driver for macOS |
 
 
 ## [Panha](https://github.com/YStorm5)
@@ -182,6 +182,14 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/91424540?u=9781906fc35340bf3c4eb352935add9df11815d0&v=4" alt="" width="40" /> | Programming Enthusiast |
 | [scrape](https://github.com/YStorm5/scrape) | Library to scrape data from a website. |
+
+
+## [ggwp](https://github.com/kanharithsok)
+    
+| [@kanharithsok](https://github.com/kanharithsok) | [❤️Sponsor](https://github.com/sponsors/kanharithsok) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/12556875?u=ef7b5cfee6b4948b05a8d193ad039430d670f3ef&v=4" alt="" width="40" /> | ¯\_(ツ)_/¯ |
+| [browser-deck](https://github.com/kanharithsok/browser-deck) | BrowserDeck — multiple real browser sessions in one flexible workspace. |
 
 
 ## [Veasna TEP](https://github.com/veasnawt)

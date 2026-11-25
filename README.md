@@ -4,7 +4,7 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 
 - Total: 29
 - Search Results: [GitHub Search](https://github.com/search?q=location%3ACambodia++is%3Asponsorable&type=users&ref=simplesearch)
-- Last update: Tue Nov 24 2026 07:34:32 GMT+0000 (Coordinated Universal Time)
+- Last update: Wed Nov 25 2026 06:02:45 GMT+0000 (Coordinated Universal Time)
 
 ----
 
@@ -80,20 +80,20 @@ This repository is a list of GitHub users who are living in Cambodia and are spo
 | [github-stats](https://github.com/pphatdev/github-stats) | :octocat: Generate dynamic, futuristic SVG cards displaying GitHub user statistics for your README files! |
 
 
-## [Moremi Vannak](https://github.com/rinn7e)
-    
-| [@rinn7e](https://github.com/rinn7e) | [❤️Sponsor](https://github.com/sponsors/rinn7e) |
-| --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/8400953?u=8b07286613fd20500a411f3349ae15dd60db0deb&v=4" alt="" width="40" /> | Enthusiastic Functional Programmer, specialized in Haskell, Typescript(fp-ts), Purescript, and Elm. |
-| [cambodia-law-dataset](https://github.com/rinn7e/cambodia-law-dataset) | Cambodia Law Dataset |
-
-
 ## [Khem Puthea](https://github.com/putheakhem)
     
 | [@putheakhem](https://github.com/putheakhem) | [❤️Sponsor](https://github.com/sponsors/putheakhem) |
 | --- | --- |
 | <img src="https://avatars.githubusercontent.com/u/8064772?u=a243690fa6d1ddacc2a4bed6554bcb686085d152&v=4" alt="" width="40" /> | AI & DevOps |
 | [otp](https://github.com/putheakhem/otp) | Simple Laravel OTP generator and validator  |
+
+
+## [Moremi Vannak](https://github.com/rinn7e)
+    
+| [@rinn7e](https://github.com/rinn7e) | [❤️Sponsor](https://github.com/sponsors/rinn7e) |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/8400953?u=8b07286613fd20500a411f3349ae15dd60db0deb&v=4" alt="" width="40" /> | Enthusiastic Functional Programmer, specialized in Haskell, Typescript(fp-ts), Purescript, and Elm. |
+| [cambodia-law-dataset](https://github.com/rinn7e/cambodia-law-dataset) | Cambodia Law Dataset |
 
 
 ## [Vathanak Sol](https://github.com/VathanakSol)
